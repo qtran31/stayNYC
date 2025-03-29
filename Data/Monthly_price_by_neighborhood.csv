@@ -1,0 +1,2761 @@
+neighbourhood,month,monthly_price
+Allerton,1,3107.65
+Allerton,2,3535.45
+Allerton,3,3606.36
+Allerton,4,3673.08
+Allerton,5,3554.25
+Allerton,6,3624.47
+Allerton,7,2963.0
+Allerton,8,3727.06
+Allerton,9,2998.85
+Allerton,10,3756.36
+Allerton,11,3611.67
+Allerton,12,3491.35
+Arden Heights,1,3607.5
+Arden Heights,2,3120.0
+Arden Heights,3,2340.0
+Arden Heights,4,3802.5
+Arden Heights,5,3997.5
+Arden Heights,6,4087.5
+Arden Heights,7,4357.5
+Arden Heights,8,3540.0
+Arden Heights,9,4155.0
+Arden Heights,10,4042.5
+Arden Heights,11,3765.0
+Arden Heights,12,3465.0
+Arrochar,1,4563.75
+Arrochar,2,4563.75
+Arrochar,3,4368.75
+Arrochar,4,3720.0
+Arrochar,5,3818.57
+Arrochar,6,4975.71
+Arrochar,7,5010.0
+Arrochar,8,4774.29
+Arrochar,9,4804.29
+Arrochar,10,4804.29
+Arrochar,11,4563.75
+Arrochar,12,4563.75
+Arverne,1,7208.24
+Arverne,2,8743.0
+Arverne,3,7482.32
+Arverne,4,6493.88
+Arverne,5,6437.91
+Arverne,6,7359.19
+Arverne,7,7476.36
+Arverne,8,7513.22
+Arverne,9,7645.42
+Arverne,10,7470.54
+Arverne,11,7358.36
+Arverne,12,7402.78
+Astoria,1,3097.31
+Astoria,2,3316.87
+Astoria,3,3038.17
+Astoria,4,3421.5
+Astoria,5,3677.36
+Astoria,6,3617.95
+Astoria,7,3660.71
+Astoria,8,3550.94
+Astoria,9,3183.35
+Astoria,10,3522.52
+Astoria,11,3650.5
+Astoria,12,3437.55
+Bath Beach,1,3109.09
+Bath Beach,2,2779.29
+Bath Beach,3,2910.0
+Bath Beach,4,3578.82
+Bath Beach,5,3488.82
+Bath Beach,6,3436.15
+Bath Beach,7,3400.71
+Bath Beach,8,3342.35
+Bath Beach,9,2994.38
+Bath Beach,10,2950.71
+Bath Beach,11,3004.62
+Bath Beach,12,3222.5
+Battery Park City,1,18041.61
+Battery Park City,2,19272.86
+Battery Park City,3,25527.78
+Battery Park City,4,21107.73
+Battery Park City,5,19534.8
+Battery Park City,6,20827.5
+Battery Park City,7,22778.18
+Battery Park City,8,21743.48
+Battery Park City,9,21805.0
+Battery Park City,10,22698.26
+Battery Park City,11,24271.5
+Battery Park City,12,22858.57
+Bay Ridge,1,3336.4
+Bay Ridge,2,3357.08
+Bay Ridge,3,2795.89
+Bay Ridge,4,3364.02
+Bay Ridge,5,3547.31
+Bay Ridge,6,3566.2
+Bay Ridge,7,3556.83
+Bay Ridge,8,3408.14
+Bay Ridge,9,3612.47
+Bay Ridge,10,3546.87
+Bay Ridge,11,3322.68
+Bay Ridge,12,3285.56
+Bay Terrace,1,3150.0
+Bay Terrace,2,3150.0
+Bay Terrace,3,3150.0
+Bay Terrace,4,5250.0
+Bay Terrace,5,5250.0
+Bay Terrace,6,5250.0
+Bay Terrace,7,3150.0
+Bay Terrace,8,3150.0
+Bay Terrace,9,3150.0
+Bay Terrace,10,3150.0
+Bay Terrace,11,3150.0
+Bay Terrace,12,3150.0
+"Bay Terrace, Staten Island",1,
+"Bay Terrace, Staten Island",2,
+"Bay Terrace, Staten Island",3,
+"Bay Terrace, Staten Island",4,6000.0
+"Bay Terrace, Staten Island",5,
+"Bay Terrace, Staten Island",6,
+"Bay Terrace, Staten Island",7,
+"Bay Terrace, Staten Island",8,
+"Bay Terrace, Staten Island",9,
+"Bay Terrace, Staten Island",10,
+"Bay Terrace, Staten Island",11,
+"Bay Terrace, Staten Island",12,
+Baychester,1,3291.0
+Baychester,2,3147.27
+Baychester,3,2952.0
+Baychester,4,2950.71
+Baychester,5,2820.0
+Baychester,6,3126.43
+Baychester,7,3158.57
+Baychester,8,3263.57
+Baychester,9,3103.64
+Baychester,10,3180.0
+Baychester,11,3210.0
+Baychester,12,3330.0
+Bayside,1,5614.14
+Bayside,2,3393.16
+Bayside,3,5263.0
+Bayside,4,3640.0
+Bayside,5,4961.25
+Bayside,6,4910.69
+Bayside,7,4465.86
+Bayside,8,4466.79
+Bayside,9,3060.0
+Bayside,10,4772.14
+Bayside,11,4645.45
+Bayside,12,5280.91
+Bayswater,1,2800.0
+Bayswater,2,2180.0
+Bayswater,3,2797.5
+Bayswater,4,3820.0
+Bayswater,5,3882.0
+Bayswater,6,3150.0
+Bayswater,7,3204.0
+Bayswater,8,2966.67
+Bayswater,9,2733.75
+Bayswater,10,2805.0
+Bayswater,11,2904.0
+Bayswater,12,2417.14
+Bedford-Stuyvesant,1,3965.7
+Bedford-Stuyvesant,2,3942.74
+Bedford-Stuyvesant,3,3937.65
+Bedford-Stuyvesant,4,5755.9
+Bedford-Stuyvesant,5,8013.38
+Bedford-Stuyvesant,6,8184.37
+Bedford-Stuyvesant,7,6120.31
+Bedford-Stuyvesant,8,8077.83
+Bedford-Stuyvesant,9,8082.87
+Bedford-Stuyvesant,10,4116.44
+Bedford-Stuyvesant,11,3990.36
+Bedford-Stuyvesant,12,3883.65
+Belle Harbor,1,5766.0
+Belle Harbor,2,5766.0
+Belle Harbor,3,6216.0
+Belle Harbor,4,5995.0
+Belle Harbor,5,5710.0
+Belle Harbor,6,6192.0
+Belle Harbor,7,6410.0
+Belle Harbor,8,6485.0
+Belle Harbor,9,6460.0
+Belle Harbor,10,5940.0
+Belle Harbor,11,5940.0
+Belle Harbor,12,5886.0
+Bellerose,1,3967.5
+Bellerose,2,3890.0
+Bellerose,3,3647.5
+Bellerose,4,4268.18
+Bellerose,5,4260.0
+Bellerose,6,4356.0
+Bellerose,7,4317.0
+Bellerose,8,4217.5
+Bellerose,9,4250.0
+Bellerose,10,4066.15
+Bellerose,11,3912.5
+Bellerose,12,3518.18
+Belmont,1,2997.6
+Belmont,2,3040.43
+Belmont,3,3107.14
+Belmont,4,2959.2
+Belmont,5,3248.57
+Belmont,6,3372.63
+Belmont,7,3530.62
+Belmont,8,3648.95
+Belmont,9,2958.75
+Belmont,10,3396.0
+Belmont,11,3234.78
+Belmont,12,3128.75
+Bensonhurst,1,3471.29
+Bensonhurst,2,3480.97
+Bensonhurst,3,2542.5
+Bensonhurst,4,3517.71
+Bensonhurst,5,3525.0
+Bensonhurst,6,3622.0
+Bensonhurst,7,3662.0
+Bensonhurst,8,3438.39
+Bensonhurst,9,3481.88
+Bensonhurst,10,3890.36
+Bensonhurst,11,3812.0
+Bensonhurst,12,3822.19
+Bergen Beach,1,5877.0
+Bergen Beach,2,5982.0
+Bergen Beach,3,5623.64
+Bergen Beach,4,5350.91
+Bergen Beach,5,5203.64
+Bergen Beach,6,5287.5
+Bergen Beach,7,5700.0
+Bergen Beach,8,5243.08
+Bergen Beach,9,5243.08
+Bergen Beach,10,5312.5
+Bergen Beach,11,5522.73
+Bergen Beach,12,5680.91
+Bloomfield,1,
+Bloomfield,2,
+Bloomfield,3,
+Bloomfield,4,
+Bloomfield,5,
+Bloomfield,6,
+Bloomfield,7,
+Bloomfield,8,
+Bloomfield,9,
+Bloomfield,10,
+Bloomfield,11,
+Bloomfield,12,
+Boerum Hill,1,8155.0
+Boerum Hill,2,8490.61
+Boerum Hill,3,9129.23
+Boerum Hill,4,8553.66
+Boerum Hill,5,8474.32
+Boerum Hill,6,8690.67
+Boerum Hill,7,8595.68
+Boerum Hill,8,8776.05
+Boerum Hill,9,8737.14
+Boerum Hill,10,8855.38
+Boerum Hill,11,8710.71
+Boerum Hill,12,8268.12
+Borough Park,1,3975.94
+Borough Park,2,2722.06
+Borough Park,3,2140.0
+Borough Park,4,2865.0
+Borough Park,5,2920.5
+Borough Park,6,2802.0
+Borough Park,7,2795.45
+Borough Park,8,2770.59
+Borough Park,9,2730.97
+Borough Park,10,2746.36
+Borough Park,11,2870.0
+Borough Park,12,2738.71
+Breezy Point,1,4500.0
+Breezy Point,2,4500.0
+Breezy Point,3,4162.5
+Breezy Point,4,4500.0
+Breezy Point,5,4500.0
+Breezy Point,6,4500.0
+Breezy Point,7,4500.0
+Breezy Point,8,4500.0
+Breezy Point,9,4500.0
+Breezy Point,10,4500.0
+Breezy Point,11,4500.0
+Breezy Point,12,4500.0
+Briarwood,1,5024.29
+Briarwood,2,2273.57
+Briarwood,3,8435.36
+Briarwood,4,2629.5
+Briarwood,5,8417.0
+Briarwood,6,8956.67
+Briarwood,7,9113.57
+Briarwood,8,9052.5
+Briarwood,9,9132.0
+Briarwood,10,4920.0
+Briarwood,11,8932.5
+Briarwood,12,8748.89
+Brighton Beach,1,3777.5
+Brighton Beach,2,3522.31
+Brighton Beach,3,3686.92
+Brighton Beach,4,3899.21
+Brighton Beach,5,3531.0
+Brighton Beach,6,3777.5
+Brighton Beach,7,3701.54
+Brighton Beach,8,3690.71
+Brighton Beach,9,3790.54
+Brighton Beach,10,3537.0
+Brighton Beach,11,3513.95
+Brighton Beach,12,3498.29
+Bronxdale,1,1878.0
+Bronxdale,2,1900.91
+Bronxdale,3,2187.27
+Bronxdale,4,2125.38
+Bronxdale,5,1882.5
+Bronxdale,6,1950.0
+Bronxdale,7,2094.0
+Bronxdale,8,1870.91
+Bronxdale,9,1936.36
+Bronxdale,10,1898.18
+Bronxdale,11,1971.82
+Bronxdale,12,1950.0
+Brooklyn Heights,1,7805.71
+Brooklyn Heights,2,8084.68
+Brooklyn Heights,3,8770.85
+Brooklyn Heights,4,7811.86
+Brooklyn Heights,5,8925.92
+Brooklyn Heights,6,9106.0
+Brooklyn Heights,7,9581.59
+Brooklyn Heights,8,8808.37
+Brooklyn Heights,9,9223.04
+Brooklyn Heights,10,8041.43
+Brooklyn Heights,11,8602.5
+Brooklyn Heights,12,7863.06
+Brownsville,1,4158.75
+Brownsville,2,3735.68
+Brownsville,3,3429.75
+Brownsville,4,2982.0
+Brownsville,5,2921.91
+Brownsville,6,2917.38
+Brownsville,7,3002.95
+Brownsville,8,3093.93
+Brownsville,9,3222.0
+Brownsville,10,3090.52
+Brownsville,11,3236.32
+Brownsville,12,3435.88
+Bull's Head,1,5730.0
+Bull's Head,2,5712.0
+Bull's Head,3,5616.0
+Bull's Head,4,4530.0
+Bull's Head,5,4998.0
+Bull's Head,6,4915.71
+Bull's Head,7,5330.0
+Bull's Head,8,6042.0
+Bull's Head,9,5650.0
+Bull's Head,10,5360.0
+Bull's Head,11,5712.0
+Bull's Head,12,5712.0
+Bushwick,1,3504.11
+Bushwick,2,3410.9
+Bushwick,3,3609.08
+Bushwick,4,3514.77
+Bushwick,5,3649.81
+Bushwick,6,3679.6
+Bushwick,7,3895.68
+Bushwick,8,3605.95
+Bushwick,9,3397.48
+Bushwick,10,3666.98
+Bushwick,11,3639.21
+Bushwick,12,3431.18
+Cambria Heights,1,3923.68
+Cambria Heights,2,3670.5
+Cambria Heights,3,3793.64
+Cambria Heights,4,3688.46
+Cambria Heights,5,3690.77
+Cambria Heights,6,3848.68
+Cambria Heights,7,3895.5
+Cambria Heights,8,3645.79
+Cambria Heights,9,3787.32
+Cambria Heights,10,3593.25
+Cambria Heights,11,3161.79
+Cambria Heights,12,3683.57
+Canarsie,1,4485.23
+Canarsie,2,5686.77
+Canarsie,3,5610.23
+Canarsie,4,3959.59
+Canarsie,5,3991.74
+Canarsie,6,4017.17
+Canarsie,7,3990.9
+Canarsie,8,3952.27
+Canarsie,9,4021.85
+Canarsie,10,4027.21
+Canarsie,11,4053.52
+Canarsie,12,4127.69
+Carroll Gardens,1,9535.5
+Carroll Gardens,2,9098.77
+Carroll Gardens,3,9028.18
+Carroll Gardens,4,10485.57
+Carroll Gardens,5,10503.16
+Carroll Gardens,6,10154.37
+Carroll Gardens,7,10167.53
+Carroll Gardens,8,9677.43
+Carroll Gardens,9,10328.57
+Carroll Gardens,10,9609.57
+Carroll Gardens,11,9509.09
+Carroll Gardens,12,9457.97
+Castle Hill,1,3320.0
+Castle Hill,2,4200.0
+Castle Hill,3,3230.0
+Castle Hill,4,13295.0
+Castle Hill,5,13175.0
+Castle Hill,6,13175.0
+Castle Hill,7,12162.0
+Castle Hill,8,11352.0
+Castle Hill,9,13875.0
+Castle Hill,10,6690.0
+Castle Hill,11,3320.0
+Castle Hill,12,3320.0
+Castleton Corners,1,3990.0
+Castleton Corners,2,3990.0
+Castleton Corners,3,3270.0
+Castleton Corners,4,3735.0
+Castleton Corners,5,3735.0
+Castleton Corners,6,3735.0
+Castleton Corners,7,3735.0
+Castleton Corners,8,3735.0
+Castleton Corners,9,3735.0
+Castleton Corners,10,3735.0
+Castleton Corners,11,3735.0
+Castleton Corners,12,3730.0
+Charleston,1,
+Charleston,2,
+Charleston,3,
+Charleston,4,
+Charleston,5,
+Charleston,6,
+Charleston,7,
+Charleston,8,
+Charleston,9,
+Charleston,10,
+Charleston,11,
+Charleston,12,
+Chelsea,1,8621.74
+Chelsea,2,8869.52
+Chelsea,3,9101.23
+Chelsea,4,9492.77
+Chelsea,5,9916.42
+Chelsea,6,10091.42
+Chelsea,7,10120.38
+Chelsea,8,10541.77
+Chelsea,9,9449.85
+Chelsea,10,9710.1
+Chelsea,11,9503.6
+Chelsea,12,9074.58
+"Chelsea, Staten Island",1,2100.0
+"Chelsea, Staten Island",2,2100.0
+"Chelsea, Staten Island",3,2100.0
+"Chelsea, Staten Island",4,2100.0
+"Chelsea, Staten Island",5,2100.0
+"Chelsea, Staten Island",6,2100.0
+"Chelsea, Staten Island",7,2100.0
+"Chelsea, Staten Island",8,2100.0
+"Chelsea, Staten Island",9,2100.0
+"Chelsea, Staten Island",10,2100.0
+"Chelsea, Staten Island",11,2100.0
+"Chelsea, Staten Island",12,2100.0
+Chinatown,1,6485.96
+Chinatown,2,6439.69
+Chinatown,3,6459.14
+Chinatown,4,6854.63
+Chinatown,5,6581.95
+Chinatown,6,6239.5
+Chinatown,7,7055.08
+Chinatown,8,6869.54
+Chinatown,9,7251.36
+Chinatown,10,6911.9
+Chinatown,11,6709.47
+Chinatown,12,6826.4
+City Island,1,4336.36
+City Island,2,4418.18
+City Island,3,4311.82
+City Island,4,4601.25
+City Island,5,4601.25
+City Island,6,4410.0
+City Island,7,4410.0
+City Island,8,4449.0
+City Island,9,4446.0
+City Island,10,4446.0
+City Island,11,4446.0
+City Island,12,4705.0
+Civic Center,1,7837.5
+Civic Center,2,7105.0
+Civic Center,3,7530.0
+Civic Center,4,11890.0
+Civic Center,5,22725.0
+Civic Center,6,20910.0
+Civic Center,7,16614.0
+Civic Center,8,15432.0
+Civic Center,9,14910.0
+Civic Center,10,13290.0
+Civic Center,11,14107.5
+Civic Center,12,13860.0
+Claremont Village,1,3288.86
+Claremont Village,2,3327.5
+Claremont Village,3,3407.86
+Claremont Village,4,3510.68
+Claremont Village,5,3283.08
+Claremont Village,6,3086.92
+Claremont Village,7,2928.65
+Claremont Village,8,3114.17
+Claremont Village,9,3104.06
+Claremont Village,10,3156.86
+Claremont Village,11,3089.12
+Claremont Village,12,2834.12
+Clason Point,1,3071.11
+Clason Point,2,2572.17
+Clason Point,3,3202.22
+Clason Point,4,2993.64
+Clason Point,5,3016.0
+Clason Point,6,3069.68
+Clason Point,7,3062.9
+Clason Point,8,3110.62
+Clason Point,9,3098.44
+Clason Point,10,3128.57
+Clason Point,11,3142.5
+Clason Point,12,3081.11
+Clifton,1,3216.0
+Clifton,2,2982.0
+Clifton,3,2940.0
+Clifton,4,4447.5
+Clifton,5,4576.67
+Clifton,6,4180.0
+Clifton,7,3534.0
+Clifton,8,3280.0
+Clifton,9,3085.0
+Clifton,10,3045.0
+Clifton,11,3025.0
+Clifton,12,3865.0
+Clinton Hill,1,5965.25
+Clinton Hill,2,6172.37
+Clinton Hill,3,6791.62
+Clinton Hill,4,6933.38
+Clinton Hill,5,7169.8
+Clinton Hill,6,7228.57
+Clinton Hill,7,6502.64
+Clinton Hill,8,6643.33
+Clinton Hill,9,5251.79
+Clinton Hill,10,6482.59
+Clinton Hill,11,6102.49
+Clinton Hill,12,6053.23
+Co-op City,1,1658.57
+Co-op City,2,1836.0
+Co-op City,3,1710.0
+Co-op City,4,1954.29
+Co-op City,5,2678.57
+Co-op City,6,2142.86
+Co-op City,7,2284.29
+Co-op City,8,2344.29
+Co-op City,9,1615.71
+Co-op City,10,1645.71
+Co-op City,11,1585.71
+Co-op City,12,1585.71
+Cobble Hill,1,8530.38
+Cobble Hill,2,7884.0
+Cobble Hill,3,8724.78
+Cobble Hill,4,8292.86
+Cobble Hill,5,7512.58
+Cobble Hill,6,7951.0
+Cobble Hill,7,8870.77
+Cobble Hill,8,8715.0
+Cobble Hill,9,9236.54
+Cobble Hill,10,8592.22
+Cobble Hill,11,8260.34
+Cobble Hill,12,8516.67
+College Point,1,4590.0
+College Point,2,3222.0
+College Point,3,4373.18
+College Point,4,3622.22
+College Point,5,3960.0
+College Point,6,3666.92
+College Point,7,3720.0
+College Point,8,3741.6
+College Point,9,3855.6
+College Point,10,3886.8
+College Point,11,4320.0
+College Point,12,4293.6
+Columbia St,1,7260.0
+Columbia St,2,9006.0
+Columbia St,3,10305.0
+Columbia St,4,6317.14
+Columbia St,5,6342.86
+Columbia St,6,6800.0
+Columbia St,7,7410.0
+Columbia St,8,7950.0
+Columbia St,9,6835.71
+Columbia St,10,7400.0
+Columbia St,11,7400.0
+Columbia St,12,7065.0
+Concord,1,3882.0
+Concord,2,3972.0
+Concord,3,3952.5
+Concord,4,3666.0
+Concord,5,3786.0
+Concord,6,3786.0
+Concord,7,4002.0
+Concord,8,3882.0
+Concord,9,3882.0
+Concord,10,3882.0
+Concord,11,3882.0
+Concord,12,3882.0
+Concourse,1,3040.43
+Concourse,2,3037.5
+Concourse,3,3240.0
+Concourse,4,2948.75
+Concourse,5,2753.08
+Concourse,6,2960.4
+Concourse,7,3057.69
+Concourse,8,3196.25
+Concourse,9,3100.5
+Concourse,10,2948.4
+Concourse,11,2926.96
+Concourse,12,3141.82
+Concourse Village,1,4570.5
+Concourse Village,2,3805.71
+Concourse Village,3,3597.27
+Concourse Village,4,4217.78
+Concourse Village,5,4274.4
+Concourse Village,6,4498.75
+Concourse Village,7,4944.0
+Concourse Village,8,4990.8
+Concourse Village,9,5148.75
+Concourse Village,10,4279.09
+Concourse Village,11,5303.18
+Concourse Village,12,5267.31
+Coney Island,1,3344.12
+Coney Island,2,3221.67
+Coney Island,3,3413.33
+Coney Island,4,3308.82
+Coney Island,5,3270.0
+Coney Island,6,3401.25
+Coney Island,7,3406.0
+Coney Island,8,3365.29
+Coney Island,9,3345.88
+Coney Island,10,3344.12
+Coney Island,11,3340.59
+Coney Island,12,3313.12
+Corona,1,2620.5
+Corona,2,3354.47
+Corona,3,3218.68
+Corona,4,2709.17
+Corona,5,2755.83
+Corona,6,2518.29
+Corona,7,2623.71
+Corona,8,2549.19
+Corona,9,2587.69
+Corona,10,2559.23
+Corona,11,2555.0
+Corona,12,2675.0
+Country Club,1,3600.0
+Country Club,2,3600.0
+Country Club,3,3600.0
+Country Club,4,7560.0
+Country Club,5,5220.0
+Country Club,6,5220.0
+Country Club,7,5220.0
+Country Club,8,5220.0
+Country Club,9,5220.0
+Country Club,10,5220.0
+Country Club,11,5220.0
+Country Club,12,3600.0
+Crown Heights,1,4793.74
+Crown Heights,2,4705.18
+Crown Heights,3,5129.01
+Crown Heights,4,4287.85
+Crown Heights,5,4391.13
+Crown Heights,6,4052.65
+Crown Heights,7,4078.24
+Crown Heights,8,4699.45
+Crown Heights,9,4803.74
+Crown Heights,10,4923.39
+Crown Heights,11,4950.2
+Crown Heights,12,5001.54
+Cypress Hills,1,2927.02
+Cypress Hills,2,2852.97
+Cypress Hills,3,2985.0
+Cypress Hills,4,3185.04
+Cypress Hills,5,3284.07
+Cypress Hills,6,3225.75
+Cypress Hills,7,3284.21
+Cypress Hills,8,3222.97
+Cypress Hills,9,2952.06
+Cypress Hills,10,2916.67
+Cypress Hills,11,2903.37
+Cypress Hills,12,3038.06
+DUMBO,1,8492.31
+DUMBO,2,8346.0
+DUMBO,3,9615.0
+DUMBO,4,9698.0
+DUMBO,5,10042.5
+DUMBO,6,10335.0
+DUMBO,7,10288.0
+DUMBO,8,10058.0
+DUMBO,9,9651.43
+DUMBO,10,9842.14
+DUMBO,11,8115.0
+DUMBO,12,7644.38
+Ditmars Steinway,1,3512.17
+Ditmars Steinway,2,3844.52
+Ditmars Steinway,3,2913.66
+Ditmars Steinway,4,3515.0
+Ditmars Steinway,5,3606.61
+Ditmars Steinway,6,3734.58
+Ditmars Steinway,7,3794.86
+Ditmars Steinway,8,3844.62
+Ditmars Steinway,9,3302.02
+Ditmars Steinway,10,4118.7
+Ditmars Steinway,11,3892.5
+Ditmars Steinway,12,3731.52
+Dongan Hills,1,4980.0
+Dongan Hills,2,4980.0
+Dongan Hills,3,4980.0
+Dongan Hills,4,4440.0
+Dongan Hills,5,4480.0
+Dongan Hills,6,6480.0
+Dongan Hills,7,4940.0
+Dongan Hills,8,4920.0
+Dongan Hills,9,4900.0
+Dongan Hills,10,4940.0
+Dongan Hills,11,4940.0
+Dongan Hills,12,5020.0
+Douglaston,1,4050.0
+Douglaston,2,4050.0
+Douglaston,3,2467.5
+Douglaston,4,5100.0
+Douglaston,5,5100.0
+Douglaston,6,5100.0
+Douglaston,7,4245.0
+Douglaston,8,3900.0
+Douglaston,9,3900.0
+Douglaston,10,3900.0
+Douglaston,11,3900.0
+Douglaston,12,4050.0
+Downtown Brooklyn,1,7540.0
+Downtown Brooklyn,2,7445.36
+Downtown Brooklyn,3,8386.55
+Downtown Brooklyn,4,7743.0
+Downtown Brooklyn,5,8232.27
+Downtown Brooklyn,6,8522.4
+Downtown Brooklyn,7,7960.38
+Downtown Brooklyn,8,8278.7
+Downtown Brooklyn,9,8178.0
+Downtown Brooklyn,10,8302.5
+Downtown Brooklyn,11,7658.75
+Downtown Brooklyn,12,7013.57
+Dyker Heights,1,3275.45
+Dyker Heights,2,3294.55
+Dyker Heights,3,3323.33
+Dyker Heights,4,3060.0
+Dyker Heights,5,3076.67
+Dyker Heights,6,3242.73
+Dyker Heights,7,3278.18
+Dyker Heights,8,3032.5
+Dyker Heights,9,3022.5
+Dyker Heights,10,3057.5
+Dyker Heights,11,3237.27
+Dyker Heights,12,3259.09
+East Elmhurst,1,4635.87
+East Elmhurst,2,4285.98
+East Elmhurst,3,3551.52
+East Elmhurst,4,4567.19
+East Elmhurst,5,4436.69
+East Elmhurst,6,4781.71
+East Elmhurst,7,4774.88
+East Elmhurst,8,4854.72
+East Elmhurst,9,4786.12
+East Elmhurst,10,4641.89
+East Elmhurst,11,4753.61
+East Elmhurst,12,5260.89
+East Flatbush,1,3709.49
+East Flatbush,2,3653.25
+East Flatbush,3,3610.91
+East Flatbush,4,3566.32
+East Flatbush,5,3564.75
+East Flatbush,6,3622.2
+East Flatbush,7,3638.16
+East Flatbush,8,3676.34
+East Flatbush,9,3264.71
+East Flatbush,10,3618.09
+East Flatbush,11,3200.75
+East Flatbush,12,3579.53
+East Harlem,1,3818.0
+East Harlem,2,3955.77
+East Harlem,3,4228.72
+East Harlem,4,4252.29
+East Harlem,5,4202.11
+East Harlem,6,4344.28
+East Harlem,7,4344.99
+East Harlem,8,4523.31
+East Harlem,9,4403.62
+East Harlem,10,4397.74
+East Harlem,11,4382.32
+East Harlem,12,4013.47
+East Morrisania,1,5062.5
+East Morrisania,2,5062.5
+East Morrisania,3,4800.0
+East Morrisania,4,4220.0
+East Morrisania,5,4270.0
+East Morrisania,6,4440.0
+East Morrisania,7,4650.0
+East Morrisania,8,4440.0
+East Morrisania,9,5287.5
+East Morrisania,10,4830.0
+East Morrisania,11,4590.0
+East Morrisania,12,5062.5
+East New York,1,4293.25
+East New York,2,4273.5
+East New York,3,4114.95
+East New York,4,4425.73
+East New York,5,4474.95
+East New York,6,4616.67
+East New York,7,4291.6
+East New York,8,4195.18
+East New York,9,4422.16
+East New York,10,4816.83
+East New York,11,4426.05
+East New York,12,4302.84
+East Village,1,6964.33
+East Village,2,6960.92
+East Village,3,7476.73
+East Village,4,7456.54
+East Village,5,7512.55
+East Village,6,7995.55
+East Village,7,7771.75
+East Village,8,7460.16
+East Village,9,7900.26
+East Village,10,7988.51
+East Village,11,7746.27
+East Village,12,6291.33
+Eastchester,1,4222.5
+Eastchester,2,4222.5
+Eastchester,3,4248.75
+Eastchester,4,3600.0
+Eastchester,5,5295.0
+Eastchester,6,4140.0
+Eastchester,7,4720.0
+Eastchester,8,3615.0
+Eastchester,9,4105.71
+Eastchester,10,4105.71
+Eastchester,11,4148.57
+Eastchester,12,4128.0
+Edenwald,1,2415.0
+Edenwald,2,2464.74
+Edenwald,3,2352.86
+Edenwald,4,2485.38
+Edenwald,5,2645.0
+Edenwald,6,2561.67
+Edenwald,7,2402.31
+Edenwald,8,2284.5
+Edenwald,9,2610.0
+Edenwald,10,2500.5
+Edenwald,11,2496.32
+Edenwald,12,2464.74
+Edgemere,1,2422.5
+Edgemere,2,4089.0
+Edgemere,3,4266.0
+Edgemere,4,3932.73
+Edgemere,5,4370.0
+Edgemere,6,4262.73
+Edgemere,7,3678.0
+Edgemere,8,3588.0
+Edgemere,9,4827.0
+Edgemere,10,4542.0
+Edgemere,11,3729.0
+Edgemere,12,3923.33
+Elmhurst,1,2889.38
+Elmhurst,2,2785.06
+Elmhurst,3,2174.21
+Elmhurst,4,3002.83
+Elmhurst,5,3121.54
+Elmhurst,6,3188.21
+Elmhurst,7,3269.28
+Elmhurst,8,3271.34
+Elmhurst,9,3336.54
+Elmhurst,10,3600.24
+Elmhurst,11,3054.71
+Elmhurst,12,2966.27
+Eltingville,1,5250.0
+Eltingville,2,3660.0
+Eltingville,3,
+Eltingville,4,5250.0
+Eltingville,5,3960.0
+Eltingville,6,3975.0
+Eltingville,7,4515.0
+Eltingville,8,4500.0
+Eltingville,9,5250.0
+Eltingville,10,5250.0
+Eltingville,11,5250.0
+Eltingville,12,5250.0
+Emerson Hill,1,3684.0
+Emerson Hill,2,4162.5
+Emerson Hill,3,4477.5
+Emerson Hill,4,3180.0
+Emerson Hill,5,3462.0
+Emerson Hill,6,3180.0
+Emerson Hill,7,3180.0
+Emerson Hill,8,3180.0
+Emerson Hill,9,3570.0
+Emerson Hill,10,3270.0
+Emerson Hill,11,3270.0
+Emerson Hill,12,3270.0
+Far Rockaway,1,4025.45
+Far Rockaway,2,4420.23
+Far Rockaway,3,4600.85
+Far Rockaway,4,4255.71
+Far Rockaway,5,4329.41
+Far Rockaway,6,4485.29
+Far Rockaway,7,4523.62
+Far Rockaway,8,4421.63
+Far Rockaway,9,4669.15
+Far Rockaway,10,4308.91
+Far Rockaway,11,4403.21
+Far Rockaway,12,4149.6
+Fieldston,1,3113.33
+Fieldston,2,3190.0
+Fieldston,3,6142.5
+Fieldston,4,2678.57
+Fieldston,5,2591.25
+Fieldston,6,2566.67
+Fieldston,7,2655.0
+Fieldston,8,2543.33
+Fieldston,9,2700.0
+Fieldston,10,2760.0
+Fieldston,11,2910.0
+Fieldston,12,2786.25
+Financial District,1,8760.94
+Financial District,2,8930.6
+Financial District,3,10085.34
+Financial District,4,9508.32
+Financial District,5,9681.32
+Financial District,6,10177.17
+Financial District,7,10555.71
+Financial District,8,10084.71
+Financial District,9,11605.8
+Financial District,10,11580.89
+Financial District,11,10431.5
+Financial District,12,9307.38
+Flatbush,1,4328.13
+Flatbush,2,4123.36
+Flatbush,3,4325.97
+Flatbush,4,4310.07
+Flatbush,5,3757.41
+Flatbush,6,3836.19
+Flatbush,7,3702.64
+Flatbush,8,3824.71
+Flatbush,9,3132.6
+Flatbush,10,3847.22
+Flatbush,11,3132.28
+Flatbush,12,4191.06
+Flatiron District,1,12824.0
+Flatiron District,2,12709.29
+Flatiron District,3,16005.48
+Flatiron District,4,11962.0
+Flatiron District,5,14687.78
+Flatiron District,6,15253.45
+Flatiron District,7,14180.29
+Flatiron District,8,14422.94
+Flatiron District,9,15383.64
+Flatiron District,10,15137.42
+Flatiron District,11,11611.07
+Flatiron District,12,17221.25
+Flatlands,1,4511.54
+Flatlands,2,4519.52
+Flatlands,3,4230.0
+Flatlands,4,4220.12
+Flatlands,5,4221.0
+Flatlands,6,4547.67
+Flatlands,7,4541.2
+Flatlands,8,4187.78
+Flatlands,9,4411.67
+Flatlands,10,4360.83
+Flatlands,11,4407.73
+Flatlands,12,3980.0
+Flushing,1,3597.17
+Flushing,2,2452.34
+Flushing,3,3065.43
+Flushing,4,2510.36
+Flushing,5,3169.6
+Flushing,6,3218.38
+Flushing,7,3262.6
+Flushing,8,3109.75
+Flushing,9,2476.28
+Flushing,10,3655.33
+Flushing,11,3348.33
+Flushing,12,3316.09
+Fordham,1,2388.0
+Fordham,2,2445.83
+Fordham,3,2598.62
+Fordham,4,2911.4
+Fordham,5,2997.21
+Fordham,6,2415.75
+Fordham,7,2389.09
+Fordham,8,2511.08
+Fordham,9,2284.84
+Fordham,10,2288.46
+Fordham,11,2381.67
+Fordham,12,2355.41
+Forest Hills,1,4500.0
+Forest Hills,2,4382.26
+Forest Hills,3,3978.33
+Forest Hills,4,3946.73
+Forest Hills,5,4120.59
+Forest Hills,6,4412.35
+Forest Hills,7,4369.2
+Forest Hills,8,4350.0
+Forest Hills,9,4380.0
+Forest Hills,10,4584.0
+Forest Hills,11,4530.0
+Forest Hills,12,4625.33
+Fort Greene,1,5101.42
+Fort Greene,2,5015.51
+Fort Greene,3,5436.14
+Fort Greene,4,9303.31
+Fort Greene,5,9656.07
+Fort Greene,6,6502.83
+Fort Greene,7,6145.03
+Fort Greene,8,5891.68
+Fort Greene,9,4539.3
+Fort Greene,10,5257.6
+Fort Greene,11,5216.88
+Fort Greene,12,5227.55
+Fort Hamilton,1,5476.15
+Fort Hamilton,2,5385.0
+Fort Hamilton,3,2845.71
+Fort Hamilton,4,3487.5
+Fort Hamilton,5,3477.0
+Fort Hamilton,6,3298.57
+Fort Hamilton,7,3201.82
+Fort Hamilton,8,5388.0
+Fort Hamilton,9,5463.0
+Fort Hamilton,10,5454.15
+Fort Hamilton,11,5309.21
+Fort Hamilton,12,5475.38
+Fort Wadsworth,1,18000.0
+Fort Wadsworth,2,18000.0
+Fort Wadsworth,3,18000.0
+Fort Wadsworth,4,18000.0
+Fort Wadsworth,5,18000.0
+Fort Wadsworth,6,18000.0
+Fort Wadsworth,7,18000.0
+Fort Wadsworth,8,18000.0
+Fort Wadsworth,9,18000.0
+Fort Wadsworth,10,18000.0
+Fort Wadsworth,11,18000.0
+Fort Wadsworth,12,18000.0
+Fresh Meadows,1,3306.0
+Fresh Meadows,2,3196.67
+Fresh Meadows,3,3238.5
+Fresh Meadows,4,2928.57
+Fresh Meadows,5,3265.5
+Fresh Meadows,6,3392.0
+Fresh Meadows,7,3129.47
+Fresh Meadows,8,3132.63
+Fresh Meadows,9,3296.47
+Fresh Meadows,10,3303.0
+Fresh Meadows,11,3115.26
+Fresh Meadows,12,3547.5
+Gerritsen Beach,1,3670.0
+Gerritsen Beach,2,5145.0
+Gerritsen Beach,3,9000.0
+Gerritsen Beach,4,4211.25
+Gerritsen Beach,5,3480.0
+Gerritsen Beach,6,4750.0
+Gerritsen Beach,7,9000.0
+Gerritsen Beach,8,9000.0
+Gerritsen Beach,9,5130.0
+Gerritsen Beach,10,9000.0
+Gerritsen Beach,11,9000.0
+Gerritsen Beach,12,
+Glen Oaks,1,
+Glen Oaks,2,
+Glen Oaks,3,
+Glen Oaks,4,
+Glen Oaks,5,
+Glen Oaks,6,
+Glen Oaks,7,
+Glen Oaks,8,
+Glen Oaks,9,
+Glen Oaks,10,
+Glen Oaks,11,
+Glen Oaks,12,
+Glendale,1,3760.77
+Glendale,2,3627.14
+Glendale,3,3530.62
+Glendale,4,3877.69
+Glendale,5,3730.0
+Glendale,6,3924.0
+Glendale,7,3975.0
+Glendale,8,3874.05
+Glendale,9,4019.14
+Glendale,10,3969.73
+Glendale,11,3662.37
+Glendale,12,3512.05
+Gowanus,1,7308.09
+Gowanus,2,7569.85
+Gowanus,3,7492.39
+Gowanus,4,7620.0
+Gowanus,5,7602.08
+Gowanus,6,12117.66
+Gowanus,7,7352.59
+Gowanus,8,7602.08
+Gowanus,9,8099.21
+Gowanus,10,7981.17
+Gowanus,11,8109.04
+Gowanus,12,7239.58
+Gramercy,1,7295.74
+Gramercy,2,7939.15
+Gramercy,3,8837.96
+Gramercy,4,6837.71
+Gramercy,5,7395.82
+Gramercy,6,7306.02
+Gramercy,7,7340.47
+Gramercy,8,7434.78
+Gramercy,9,8261.43
+Gramercy,10,8217.0
+Gramercy,11,7666.36
+Gramercy,12,6705.0
+Graniteville,1,2587.5
+Graniteville,2,2850.0
+Graniteville,3,2587.5
+Graniteville,4,2544.0
+Graniteville,5,2544.0
+Graniteville,6,2880.0
+Graniteville,7,2880.0
+Graniteville,8,2880.0
+Graniteville,9,2880.0
+Graniteville,10,2880.0
+Graniteville,11,2664.0
+Graniteville,12,2664.0
+Grant City,1,2627.14
+Grant City,2,2626.67
+Grant City,3,2430.0
+Grant City,4,1902.0
+Grant City,5,1600.0
+Grant City,6,1635.0
+Grant City,7,1746.0
+Grant City,8,1819.41
+Grant City,9,2082.5
+Grant City,10,2425.71
+Grant City,11,2126.67
+Grant City,12,1764.38
+Gravesend,1,3482.31
+Gravesend,2,3605.25
+Gravesend,3,3549.47
+Gravesend,4,3502.5
+Gravesend,5,3364.62
+Gravesend,6,3339.17
+Gravesend,7,3273.24
+Gravesend,8,3161.67
+Gravesend,9,3450.86
+Gravesend,10,3760.0
+Gravesend,11,3652.94
+Gravesend,12,3610.77
+Great Kills,1,2415.0
+Great Kills,2,2415.0
+Great Kills,3,2272.5
+Great Kills,4,2720.0
+Great Kills,5,2720.0
+Great Kills,6,2720.0
+Great Kills,7,2720.0
+Great Kills,8,2720.0
+Great Kills,9,2720.0
+Great Kills,10,2720.0
+Great Kills,11,2720.0
+Great Kills,12,2720.0
+Greenpoint,1,8211.45
+Greenpoint,2,8078.02
+Greenpoint,3,8601.41
+Greenpoint,4,8226.63
+Greenpoint,5,8725.62
+Greenpoint,6,8795.59
+Greenpoint,7,8979.0
+Greenpoint,8,8941.98
+Greenpoint,9,9004.63
+Greenpoint,10,9097.43
+Greenpoint,11,8932.76
+Greenpoint,12,8703.11
+Greenwich Village,1,12016.09
+Greenwich Village,2,11582.34
+Greenwich Village,3,12187.39
+Greenwich Village,4,11588.4
+Greenwich Village,5,12796.44
+Greenwich Village,6,12780.0
+Greenwich Village,7,12615.2
+Greenwich Village,8,12149.2
+Greenwich Village,9,13491.13
+Greenwich Village,10,13637.32
+Greenwich Village,11,12247.81
+Greenwich Village,12,11749.62
+Grymes Hill,1,7100.0
+Grymes Hill,2,7140.0
+Grymes Hill,3,7260.0
+Grymes Hill,4,8925.0
+Grymes Hill,5,8925.0
+Grymes Hill,6,7040.0
+Grymes Hill,7,7500.0
+Grymes Hill,8,7240.0
+Grymes Hill,9,6690.0
+Grymes Hill,10,6440.0
+Grymes Hill,11,6920.0
+Grymes Hill,12,6920.0
+Harlem,1,3808.32
+Harlem,2,4008.1
+Harlem,3,3934.74
+Harlem,4,3920.46
+Harlem,5,5623.7
+Harlem,6,5943.37
+Harlem,7,4180.12
+Harlem,8,4478.74
+Harlem,9,3999.99
+Harlem,10,4354.31
+Harlem,11,3182.9
+Harlem,12,3829.38
+Hell's Kitchen,1,5861.97
+Hell's Kitchen,2,6107.33
+Hell's Kitchen,3,6449.89
+Hell's Kitchen,4,7197.56
+Hell's Kitchen,5,6924.92
+Hell's Kitchen,6,7516.74
+Hell's Kitchen,7,7647.18
+Hell's Kitchen,8,7128.24
+Hell's Kitchen,9,6892.21
+Hell's Kitchen,10,7272.38
+Hell's Kitchen,11,6917.87
+Hell's Kitchen,12,6303.32
+Highbridge,1,1943.57
+Highbridge,2,1926.43
+Highbridge,3,1830.0
+Highbridge,4,2394.55
+Highbridge,5,2482.5
+Highbridge,6,2331.82
+Highbridge,7,2004.0
+Highbridge,8,2105.45
+Highbridge,9,2012.73
+Highbridge,10,2070.0
+Highbridge,11,2065.0
+Highbridge,12,1982.14
+Hollis,1,2480.0
+Hollis,2,1482.0
+Hollis,3,2380.0
+Hollis,4,2667.0
+Hollis,5,3315.0
+Hollis,6,4062.86
+Hollis,7,2970.0
+Hollis,8,3180.0
+Hollis,9,2400.0
+Hollis,10,2929.09
+Hollis,11,2708.18
+Hollis,12,2571.0
+Hollis Hills,1,
+Hollis Hills,2,
+Hollis Hills,3,
+Hollis Hills,4,7200.0
+Hollis Hills,5,7200.0
+Hollis Hills,6,7200.0
+Hollis Hills,7,7200.0
+Hollis Hills,8,7200.0
+Hollis Hills,9,7200.0
+Hollis Hills,10,7200.0
+Hollis Hills,11,
+Hollis Hills,12,
+Holliswood,1,8985.0
+Holliswood,2,2670.0
+Holliswood,3,8685.0
+Holliswood,4,1897.5
+Holliswood,5,6905.0
+Holliswood,6,8280.0
+Holliswood,7,10012.5
+Holliswood,8,10012.5
+Holliswood,9,2940.0
+Holliswood,10,17220.0
+Holliswood,11,10012.5
+Holliswood,12,10012.5
+Howard Beach,1,4750.91
+Howard Beach,2,4723.64
+Howard Beach,3,4771.43
+Howard Beach,4,5071.36
+Howard Beach,5,4948.7
+Howard Beach,6,5113.64
+Howard Beach,7,3841.58
+Howard Beach,8,4788.26
+Howard Beach,9,4776.52
+Howard Beach,10,4913.18
+Howard Beach,11,4596.0
+Howard Beach,12,4773.91
+Howland Hook,1,4305.0
+Howland Hook,2,4305.0
+Howland Hook,3,4095.0
+Howland Hook,4,5190.0
+Howland Hook,5,5190.0
+Howland Hook,6,5190.0
+Howland Hook,7,5190.0
+Howland Hook,8,5190.0
+Howland Hook,9,5190.0
+Howland Hook,10,5190.0
+Howland Hook,11,5190.0
+Howland Hook,12,4305.0
+Huguenot,1,4140.0
+Huguenot,2,4200.0
+Huguenot,3,4050.0
+Huguenot,4,3930.0
+Huguenot,5,3930.0
+Huguenot,6,3930.0
+Huguenot,7,2950.0
+Huguenot,8,3270.0
+Huguenot,9,3300.0
+Huguenot,10,3300.0
+Huguenot,11,4500.0
+Huguenot,12,4500.0
+Hunts Point,1,1577.37
+Hunts Point,2,1620.0
+Hunts Point,3,2072.14
+Hunts Point,4,1608.95
+Hunts Point,5,1480.59
+Hunts Point,6,1541.05
+Hunts Point,7,1536.0
+Hunts Point,8,1610.62
+Hunts Point,9,1573.33
+Hunts Point,10,1568.33
+Hunts Point,11,1613.33
+Hunts Point,12,1597.89
+Inwood,1,3136.62
+Inwood,2,2948.41
+Inwood,3,2860.47
+Inwood,4,2705.31
+Inwood,5,3077.05
+Inwood,6,3330.76
+Inwood,7,3151.41
+Inwood,8,3034.29
+Inwood,9,3148.24
+Inwood,10,3348.95
+Inwood,11,3303.65
+Inwood,12,3002.03
+Jackson Heights,1,2506.81
+Jackson Heights,2,2563.71
+Jackson Heights,3,2169.46
+Jackson Heights,4,2900.38
+Jackson Heights,5,3330.84
+Jackson Heights,6,3028.7
+Jackson Heights,7,2834.62
+Jackson Heights,8,2922.11
+Jackson Heights,9,2616.49
+Jackson Heights,10,2848.27
+Jackson Heights,11,2937.36
+Jackson Heights,12,2684.87
+Jamaica,1,3190.08
+Jamaica,2,3412.07
+Jamaica,3,3609.07
+Jamaica,4,3775.98
+Jamaica,5,4021.26
+Jamaica,6,4055.45
+Jamaica,7,3993.03
+Jamaica,8,3878.79
+Jamaica,9,3820.36
+Jamaica,10,3747.35
+Jamaica,11,3758.91
+Jamaica,12,3482.41
+Jamaica Estates,1,3137.14
+Jamaica Estates,2,3210.0
+Jamaica Estates,3,3525.0
+Jamaica Estates,4,1993.0
+Jamaica Estates,5,2877.35
+Jamaica Estates,6,3036.36
+Jamaica Estates,7,3129.09
+Jamaica Estates,8,3045.0
+Jamaica Estates,9,2263.45
+Jamaica Estates,10,2907.69
+Jamaica Estates,11,2759.06
+Jamaica Estates,12,2632.26
+Jamaica Hills,1,5898.75
+Jamaica Hills,2,2240.0
+Jamaica Hills,3,6175.0
+Jamaica Hills,4,3595.0
+Jamaica Hills,5,5023.33
+Jamaica Hills,6,4992.0
+Jamaica Hills,7,5626.36
+Jamaica Hills,8,4983.0
+Jamaica Hills,9,3342.86
+Jamaica Hills,10,4374.0
+Jamaica Hills,11,4027.5
+Jamaica Hills,12,5050.91
+Kensington,1,4319.43
+Kensington,2,4436.33
+Kensington,3,3943.26
+Kensington,4,4634.76
+Kensington,5,4712.46
+Kensington,6,4169.48
+Kensington,7,4327.09
+Kensington,8,4481.25
+Kensington,9,4258.09
+Kensington,10,4280.73
+Kensington,11,4411.28
+Kensington,12,4266.96
+Kew Gardens,1,2197.5
+Kew Gardens,2,2760.0
+Kew Gardens,3,2755.5
+Kew Gardens,4,2805.71
+Kew Gardens,5,2353.12
+Kew Gardens,6,3138.75
+Kew Gardens,7,3134.21
+Kew Gardens,8,3129.0
+Kew Gardens,9,3093.16
+Kew Gardens,10,3091.5
+Kew Gardens,11,3046.67
+Kew Gardens,12,3090.0
+Kew Gardens Hills,1,4770.0
+Kew Gardens Hills,2,3486.0
+Kew Gardens Hills,3,5602.94
+Kew Gardens Hills,4,5862.5
+Kew Gardens Hills,5,6453.53
+Kew Gardens Hills,6,5851.67
+Kew Gardens Hills,7,5901.67
+Kew Gardens Hills,8,6072.35
+Kew Gardens Hills,9,4693.64
+Kew Gardens Hills,10,6432.5
+Kew Gardens Hills,11,5294.0
+Kew Gardens Hills,12,5128.12
+Kingsbridge,1,3080.0
+Kingsbridge,2,2945.83
+Kingsbridge,3,2894.17
+Kingsbridge,4,2958.0
+Kingsbridge,5,2754.42
+Kingsbridge,6,2811.43
+Kingsbridge,7,3266.13
+Kingsbridge,8,3127.06
+Kingsbridge,9,3121.0
+Kingsbridge,10,3016.67
+Kingsbridge,11,2994.17
+Kingsbridge,12,2996.05
+Kips Bay,1,5869.96
+Kips Bay,2,6157.44
+Kips Bay,3,6774.45
+Kips Bay,4,6350.38
+Kips Bay,5,6191.62
+Kips Bay,6,7157.72
+Kips Bay,7,7406.41
+Kips Bay,8,6820.31
+Kips Bay,9,7028.07
+Kips Bay,10,7567.4
+Kips Bay,11,6867.96
+Kips Bay,12,6071.3
+Laurelton,1,3306.49
+Laurelton,2,3070.59
+Laurelton,3,3835.26
+Laurelton,4,3177.0
+Laurelton,5,3330.0
+Laurelton,6,3190.29
+Laurelton,7,3057.43
+Laurelton,8,3220.0
+Laurelton,9,3176.57
+Laurelton,10,3197.84
+Laurelton,11,2940.0
+Laurelton,12,3270.81
+Lighthouse Hill,1,5550.0
+Lighthouse Hill,2,5550.0
+Lighthouse Hill,3,5550.0
+Lighthouse Hill,4,5550.0
+Lighthouse Hill,5,5550.0
+Lighthouse Hill,6,5550.0
+Lighthouse Hill,7,5550.0
+Lighthouse Hill,8,5550.0
+Lighthouse Hill,9,5550.0
+Lighthouse Hill,10,5550.0
+Lighthouse Hill,11,5550.0
+Lighthouse Hill,12,5550.0
+Little Italy,1,4911.96
+Little Italy,2,4991.8
+Little Italy,3,5630.36
+Little Italy,4,5317.37
+Little Italy,5,5663.89
+Little Italy,6,6243.83
+Little Italy,7,6826.84
+Little Italy,8,6365.08
+Little Italy,9,6020.0
+Little Italy,10,6173.65
+Little Italy,11,5699.45
+Little Italy,12,5507.14
+Little Neck,1,
+Little Neck,2,
+Little Neck,3,
+Little Neck,4,810.0
+Little Neck,5,810.0
+Little Neck,6,810.0
+Little Neck,7,810.0
+Little Neck,8,810.0
+Little Neck,9,810.0
+Little Neck,10,
+Little Neck,11,
+Little Neck,12,
+Long Island City,1,4572.8
+Long Island City,2,4875.99
+Long Island City,3,5148.0
+Long Island City,4,4801.99
+Long Island City,5,5345.77
+Long Island City,6,4722.03
+Long Island City,7,4748.96
+Long Island City,8,4858.54
+Long Island City,9,5016.67
+Long Island City,10,5090.48
+Long Island City,11,4947.6
+Long Island City,12,4974.85
+Longwood,1,14245.56
+Longwood,2,15082.5
+Longwood,3,15056.25
+Longwood,4,15593.75
+Longwood,5,19026.32
+Longwood,6,16565.45
+Longwood,7,3205.0
+Longwood,8,17201.43
+Longwood,9,3093.33
+Longwood,10,15688.7
+Longwood,11,16175.45
+Longwood,12,15804.78
+Lower East Side,1,7070.27
+Lower East Side,2,6448.05
+Lower East Side,3,7504.01
+Lower East Side,4,6585.6
+Lower East Side,5,7082.4
+Lower East Side,6,7083.81
+Lower East Side,7,8829.09
+Lower East Side,8,8804.11
+Lower East Side,9,9349.06
+Lower East Side,10,8117.52
+Lower East Side,11,7939.28
+Lower East Side,12,7458.49
+Manhattan Beach,1,2850.0
+Manhattan Beach,2,2887.5
+Manhattan Beach,3,2827.5
+Manhattan Beach,4,2934.0
+Manhattan Beach,5,3060.0
+Manhattan Beach,6,3007.5
+Manhattan Beach,7,2838.0
+Manhattan Beach,8,3067.5
+Manhattan Beach,9,9540.0
+Manhattan Beach,10,2898.0
+Manhattan Beach,11,2955.0
+Manhattan Beach,12,2955.0
+Marble Hill,1,3090.0
+Marble Hill,2,3036.0
+Marble Hill,3,2850.0
+Marble Hill,4,3135.0
+Marble Hill,5,3730.0
+Marble Hill,6,3260.0
+Marble Hill,7,3082.5
+Marble Hill,8,3082.5
+Marble Hill,9,3052.5
+Marble Hill,10,3082.5
+Marble Hill,11,3075.0
+Marble Hill,12,3036.0
+Mariners Harbor,1,2749.09
+Mariners Harbor,2,2688.0
+Mariners Harbor,3,2676.0
+Mariners Harbor,4,2730.0
+Mariners Harbor,5,2692.11
+Mariners Harbor,6,2670.0
+Mariners Harbor,7,2501.67
+Mariners Harbor,8,2770.0
+Mariners Harbor,9,2700.0
+Mariners Harbor,10,2765.45
+Mariners Harbor,11,2687.73
+Mariners Harbor,12,2702.73
+Maspeth,1,3252.73
+Maspeth,2,3311.13
+Maspeth,3,2908.8
+Maspeth,4,2997.27
+Maspeth,5,2986.52
+Maspeth,6,3076.45
+Maspeth,7,3116.72
+Maspeth,8,3147.27
+Maspeth,9,3260.0
+Maspeth,10,3289.82
+Maspeth,11,3403.0
+Maspeth,12,3363.16
+Melrose,1,3588.0
+Melrose,2,3474.0
+Melrose,3,3177.0
+Melrose,4,3840.0
+Melrose,5,3992.5
+Melrose,6,4080.0
+Melrose,7,4209.0
+Melrose,8,3566.67
+Melrose,9,3210.0
+Melrose,10,3280.0
+Melrose,11,3582.0
+Melrose,12,4095.0
+Middle Village,1,5942.5
+Middle Village,2,5937.5
+Middle Village,3,5304.0
+Middle Village,4,5614.0
+Middle Village,5,5640.0
+Middle Village,6,5667.86
+Middle Village,7,5712.86
+Middle Village,8,5775.0
+Middle Village,9,5747.5
+Middle Village,10,5705.0
+Middle Village,11,5697.5
+Middle Village,12,5476.15
+Midland Beach,1,3600.0
+Midland Beach,2,3557.14
+Midland Beach,3,3372.86
+Midland Beach,4,3505.0
+Midland Beach,5,3490.0
+Midland Beach,6,3402.0
+Midland Beach,7,3085.0
+Midland Beach,8,3020.0
+Midland Beach,9,3441.43
+Midland Beach,10,3334.29
+Midland Beach,11,3321.43
+Midland Beach,12,3317.14
+Midtown,1,8462.15
+Midtown,2,9491.19
+Midtown,3,11121.09
+Midtown,4,9883.93
+Midtown,5,9977.61
+Midtown,6,9307.78
+Midtown,7,10805.56
+Midtown,8,10953.22
+Midtown,9,11695.03
+Midtown,10,12287.45
+Midtown,11,11057.51
+Midtown,12,10539.74
+Midwood,1,3524.29
+Midwood,2,3480.0
+Midwood,3,3770.91
+Midwood,4,3240.0
+Midwood,5,3241.2
+Midwood,6,3125.11
+Midwood,7,3277.66
+Midwood,8,3234.26
+Midwood,9,2481.32
+Midwood,10,3542.79
+Midwood,11,2377.69
+Midwood,12,3449.3
+Mill Basin,1,5892.0
+Mill Basin,2,5862.0
+Mill Basin,3,6083.33
+Mill Basin,4,6004.29
+Mill Basin,5,6311.25
+Mill Basin,6,5947.5
+Mill Basin,7,6273.75
+Mill Basin,8,6056.25
+Mill Basin,9,6033.33
+Mill Basin,10,5967.0
+Mill Basin,11,5618.57
+Mill Basin,12,6310.0
+Morningside Heights,1,3294.84
+Morningside Heights,2,3272.14
+Morningside Heights,3,3391.48
+Morningside Heights,4,3523.28
+Morningside Heights,5,3501.09
+Morningside Heights,6,3410.31
+Morningside Heights,7,3331.69
+Morningside Heights,8,3227.29
+Morningside Heights,9,3504.64
+Morningside Heights,10,3553.2
+Morningside Heights,11,3494.18
+Morningside Heights,12,3643.0
+Morris Heights,1,2978.18
+Morris Heights,2,2852.73
+Morris Heights,3,2320.0
+Morris Heights,4,2778.0
+Morris Heights,5,2903.57
+Morris Heights,6,3039.23
+Morris Heights,7,3192.5
+Morris Heights,8,3046.15
+Morris Heights,9,2827.5
+Morris Heights,10,2590.0
+Morris Heights,11,2681.54
+Morris Heights,12,2660.77
+Morris Park,1,3594.23
+Morris Park,2,3315.0
+Morris Park,3,3306.77
+Morris Park,4,2304.44
+Morris Park,5,2994.83
+Morris Park,6,2901.25
+Morris Park,7,2868.62
+Morris Park,8,3552.69
+Morris Park,9,3727.2
+Morris Park,10,3573.1
+Morris Park,11,3598.89
+Morris Park,12,3427.24
+Morrisania,1,2626.67
+Morrisania,2,2650.0
+Morrisania,3,2562.86
+Morrisania,4,2327.14
+Morrisania,5,2662.5
+Morrisania,6,2418.0
+Morrisania,7,2715.0
+Morrisania,8,2625.0
+Morrisania,9,2796.0
+Morrisania,10,2580.0
+Morrisania,11,2586.67
+Morrisania,12,2538.0
+Mott Haven,1,4277.31
+Mott Haven,2,3924.83
+Mott Haven,3,3644.0
+Mott Haven,4,4403.62
+Mott Haven,5,4753.17
+Mott Haven,6,4350.83
+Mott Haven,7,4528.42
+Mott Haven,8,4360.83
+Mott Haven,9,4520.29
+Mott Haven,10,4168.18
+Mott Haven,11,3932.81
+Mott Haven,12,3802.5
+Mount Eden,1,3330.0
+Mount Eden,2,3330.0
+Mount Eden,3,2862.0
+Mount Eden,4,3077.14
+Mount Eden,5,3085.71
+Mount Eden,6,3090.0
+Mount Eden,7,3455.0
+Mount Eden,8,3111.43
+Mount Eden,9,3396.0
+Mount Eden,10,3396.0
+Mount Eden,11,3330.0
+Mount Eden,12,3750.0
+Mount Hope,1,2695.2
+Mount Hope,2,2673.75
+Mount Hope,3,2845.91
+Mount Hope,4,2770.38
+Mount Hope,5,2919.6
+Mount Hope,6,3063.91
+Mount Hope,7,2859.0
+Mount Hope,8,2869.57
+Mount Hope,9,3050.0
+Mount Hope,10,2998.75
+Mount Hope,11,2993.08
+Mount Hope,12,2585.56
+Murray Hill,1,6624.95
+Murray Hill,2,6966.29
+Murray Hill,3,7492.73
+Murray Hill,4,7113.24
+Murray Hill,5,7067.16
+Murray Hill,6,8135.66
+Murray Hill,7,8113.98
+Murray Hill,8,8092.41
+Murray Hill,9,9120.96
+Murray Hill,10,8619.53
+Murray Hill,11,7961.52
+Murray Hill,12,7685.62
+Navy Yard,1,13164.0
+Navy Yard,2,13116.0
+Navy Yard,3,18630.0
+Navy Yard,4,2070.0
+Navy Yard,5,18690.0
+Navy Yard,6,4785.0
+Navy Yard,7,10455.0
+Navy Yard,8,18690.0
+Navy Yard,9,7035.0
+Navy Yard,10,18690.0
+Navy Yard,11,16185.0
+Navy Yard,12,16260.0
+Neponsit,1,8160.0
+Neponsit,2,8160.0
+Neponsit,3,9525.0
+Neponsit,4,8850.0
+Neponsit,5,8850.0
+Neponsit,6,8850.0
+Neponsit,7,8850.0
+Neponsit,8,8160.0
+Neponsit,9,8160.0
+Neponsit,10,8160.0
+Neponsit,11,8160.0
+Neponsit,12,8160.0
+New Brighton,1,6909.0
+New Brighton,2,6798.0
+New Brighton,3,7253.33
+New Brighton,4,3210.0
+New Brighton,5,3018.0
+New Brighton,6,6092.73
+New Brighton,7,7998.75
+New Brighton,8,7905.0
+New Brighton,9,8785.71
+New Brighton,10,7360.0
+New Brighton,11,6732.0
+New Brighton,12,4134.0
+New Dorp,1,
+New Dorp,2,
+New Dorp,3,
+New Dorp,4,
+New Dorp,5,
+New Dorp,6,
+New Dorp,7,
+New Dorp,8,
+New Dorp,9,
+New Dorp,10,
+New Dorp,11,
+New Dorp,12,
+New Dorp Beach,1,1860.0
+New Dorp Beach,2,1950.0
+New Dorp Beach,3,1950.0
+New Dorp Beach,4,1500.0
+New Dorp Beach,5,1680.0
+New Dorp Beach,6,1950.0
+New Dorp Beach,7,1950.0
+New Dorp Beach,8,1950.0
+New Dorp Beach,9,2040.0
+New Dorp Beach,10,2040.0
+New Dorp Beach,11,2040.0
+New Dorp Beach,12,2040.0
+New Springville,1,6075.0
+New Springville,2,6075.0
+New Springville,3,3900.0
+New Springville,4,8250.0
+New Springville,5,8250.0
+New Springville,6,8250.0
+New Springville,7,8250.0
+New Springville,8,8250.0
+New Springville,9,8250.0
+New Springville,10,8250.0
+New Springville,11,6075.0
+New Springville,12,6075.0
+NoHo,1,13538.57
+NoHo,2,15730.0
+NoHo,3,17558.82
+NoHo,4,12971.25
+NoHo,5,13002.0
+NoHo,6,14937.69
+NoHo,7,17365.38
+NoHo,8,18307.5
+NoHo,9,18381.0
+NoHo,10,17670.0
+NoHo,11,16608.46
+NoHo,12,13684.62
+Nolita,1,8222.86
+Nolita,2,5651.16
+Nolita,3,9436.96
+Nolita,4,9233.26
+Nolita,5,9279.77
+Nolita,6,9882.72
+Nolita,7,10192.0
+Nolita,8,10020.61
+Nolita,9,10626.0
+Nolita,10,9710.88
+Nolita,11,9624.76
+Nolita,12,8448.18
+North Riverdale,1,3638.57
+North Riverdale,2,3527.14
+North Riverdale,3,3740.0
+North Riverdale,4,3068.57
+North Riverdale,5,3097.5
+North Riverdale,6,3097.5
+North Riverdale,7,3080.0
+North Riverdale,8,3097.5
+North Riverdale,9,3097.5
+North Riverdale,10,3394.29
+North Riverdale,11,3518.57
+North Riverdale,12,3625.71
+Norwood,1,3035.56
+Norwood,2,2972.0
+Norwood,3,2895.6
+Norwood,4,2707.78
+Norwood,5,2797.0
+Norwood,6,2779.35
+Norwood,7,2932.17
+Norwood,8,2912.31
+Norwood,9,2887.74
+Norwood,10,2920.65
+Norwood,11,2984.0
+Norwood,12,3078.75
+Oakwood,1,5250.0
+Oakwood,2,5250.0
+Oakwood,3,5250.0
+Oakwood,4,5250.0
+Oakwood,5,4575.0
+Oakwood,6,4575.0
+Oakwood,7,5250.0
+Oakwood,8,4575.0
+Oakwood,9,5250.0
+Oakwood,10,5250.0
+Oakwood,11,5250.0
+Oakwood,12,4267.5
+Olinville,1,3780.0
+Olinville,2,3780.0
+Olinville,3,3470.0
+Olinville,4,3285.0
+Olinville,5,3702.0
+Olinville,6,3702.0
+Olinville,7,3980.0
+Olinville,8,3850.0
+Olinville,9,3990.0
+Olinville,10,3780.0
+Olinville,11,4830.0
+Olinville,12,3780.0
+Ozone Park,1,2909.42
+Ozone Park,2,2974.71
+Ozone Park,3,2718.11
+Ozone Park,4,3184.77
+Ozone Park,5,3212.73
+Ozone Park,6,3251.16
+Ozone Park,7,3261.82
+Ozone Park,8,3319.59
+Ozone Park,9,3083.62
+Ozone Park,10,3066.28
+Ozone Park,11,2864.35
+Ozone Park,12,2583.6
+Park Slope,1,6992.42
+Park Slope,2,7273.75
+Park Slope,3,7163.28
+Park Slope,4,7714.86
+Park Slope,5,7783.85
+Park Slope,6,7880.43
+Park Slope,7,7876.67
+Park Slope,8,7333.08
+Park Slope,9,7419.25
+Park Slope,10,7690.7
+Park Slope,11,7378.88
+Park Slope,12,7888.15
+Parkchester,1,2380.0
+Parkchester,2,3230.62
+Parkchester,3,3107.14
+Parkchester,4,2494.5
+Parkchester,5,2636.25
+Parkchester,6,2347.06
+Parkchester,7,3154.62
+Parkchester,8,2776.0
+Parkchester,9,2812.5
+Parkchester,10,3064.0
+Parkchester,11,3116.0
+Parkchester,12,2260.0
+Pelham Bay,1,3999.0
+Pelham Bay,2,4091.25
+Pelham Bay,3,4090.0
+Pelham Bay,4,3782.73
+Pelham Bay,5,4506.67
+Pelham Bay,6,4335.0
+Pelham Bay,7,4356.0
+Pelham Bay,8,4088.18
+Pelham Bay,9,5215.71
+Pelham Bay,10,4317.0
+Pelham Bay,11,4317.0
+Pelham Bay,12,4096.67
+Pelham Gardens,1,3026.25
+Pelham Gardens,2,3066.52
+Pelham Gardens,3,2929.57
+Pelham Gardens,4,3264.44
+Pelham Gardens,5,3266.67
+Pelham Gardens,6,3361.2
+Pelham Gardens,7,2697.0
+Pelham Gardens,8,2967.39
+Pelham Gardens,9,2831.05
+Pelham Gardens,10,3011.74
+Pelham Gardens,11,3125.71
+Pelham Gardens,12,3187.14
+Pleasant Plains,1,
+Pleasant Plains,2,
+Pleasant Plains,3,
+Pleasant Plains,4,
+Pleasant Plains,5,
+Pleasant Plains,6,
+Pleasant Plains,7,
+Pleasant Plains,8,
+Pleasant Plains,9,
+Pleasant Plains,10,
+Pleasant Plains,11,
+Pleasant Plains,12,
+Port Ivory,1,
+Port Ivory,2,
+Port Ivory,3,
+Port Ivory,4,
+Port Ivory,5,
+Port Ivory,6,
+Port Ivory,7,
+Port Ivory,8,
+Port Ivory,9,
+Port Ivory,10,
+Port Ivory,11,
+Port Ivory,12,
+Port Morris,1,4500.0
+Port Morris,2,4510.71
+Port Morris,3,4302.86
+Port Morris,4,4468.33
+Port Morris,5,4560.0
+Port Morris,6,4864.29
+Port Morris,7,4841.54
+Port Morris,8,4642.0
+Port Morris,9,4406.0
+Port Morris,10,4607.14
+Port Morris,11,4530.0
+Port Morris,12,4774.62
+Port Richmond,1,1835.0
+Port Richmond,2,1835.0
+Port Richmond,3,1855.0
+Port Richmond,4,1785.0
+Port Richmond,5,1785.0
+Port Richmond,6,1860.0
+Port Richmond,7,1760.0
+Port Richmond,8,2083.33
+Port Richmond,9,1735.0
+Port Richmond,10,1810.0
+Port Richmond,11,1885.71
+Port Richmond,12,1835.0
+Prince's Bay,1,9084.0
+Prince's Bay,2,9080.0
+Prince's Bay,3,9095.0
+Prince's Bay,4,3505.0
+Prince's Bay,5,3345.0
+Prince's Bay,6,3410.0
+Prince's Bay,7,3287.14
+Prince's Bay,8,4131.43
+Prince's Bay,9,5100.0
+Prince's Bay,10,5100.0
+Prince's Bay,11,4956.0
+Prince's Bay,12,4998.0
+Prospect Heights,1,8965.06
+Prospect Heights,2,8908.08
+Prospect Heights,3,8596.0
+Prospect Heights,4,8677.41
+Prospect Heights,5,8889.0
+Prospect Heights,6,9139.34
+Prospect Heights,7,8996.05
+Prospect Heights,8,8849.61
+Prospect Heights,9,7399.09
+Prospect Heights,10,9243.29
+Prospect Heights,11,9338.8
+Prospect Heights,12,7736.49
+Prospect-Lefferts Gardens,1,3587.68
+Prospect-Lefferts Gardens,2,3496.49
+Prospect-Lefferts Gardens,3,4427.69
+Prospect-Lefferts Gardens,4,3875.44
+Prospect-Lefferts Gardens,5,3849.09
+Prospect-Lefferts Gardens,6,3806.45
+Prospect-Lefferts Gardens,7,3857.83
+Prospect-Lefferts Gardens,8,3806.68
+Prospect-Lefferts Gardens,9,3729.81
+Prospect-Lefferts Gardens,10,3769.09
+Prospect-Lefferts Gardens,11,3752.84
+Prospect-Lefferts Gardens,12,3738.46
+Queens Village,1,4016.09
+Queens Village,2,4856.4
+Queens Village,3,4784.71
+Queens Village,4,4790.85
+Queens Village,5,4608.0
+Queens Village,6,4910.94
+Queens Village,7,4721.67
+Queens Village,8,4860.0
+Queens Village,9,4841.79
+Queens Village,10,4815.28
+Queens Village,11,4820.93
+Queens Village,12,5192.63
+Randall Manor,1,5116.0
+Randall Manor,2,5013.75
+Randall Manor,3,5017.5
+Randall Manor,4,3005.45
+Randall Manor,5,2992.5
+Randall Manor,6,4722.86
+Randall Manor,7,4780.91
+Randall Manor,8,4846.15
+Randall Manor,9,4846.15
+Randall Manor,10,5115.0
+Randall Manor,11,4804.0
+Randall Manor,12,5060.62
+Red Hook,1,6362.73
+Red Hook,2,6433.5
+Red Hook,3,6607.14
+Red Hook,4,5641.11
+Red Hook,5,5760.0
+Red Hook,6,6024.44
+Red Hook,7,6049.2
+Red Hook,8,6158.18
+Red Hook,9,6039.0
+Red Hook,10,6170.45
+Red Hook,11,5998.64
+Red Hook,12,6366.82
+Rego Park,1,3444.55
+Rego Park,2,3160.26
+Rego Park,3,3276.18
+Rego Park,4,2849.33
+Rego Park,5,2950.98
+Rego Park,6,3004.29
+Rego Park,7,3187.89
+Rego Park,8,3253.71
+Rego Park,9,3304.41
+Rego Park,10,3552.41
+Rego Park,11,3545.0
+Rego Park,12,3455.62
+Richmond Hill,1,2813.27
+Richmond Hill,2,2824.62
+Richmond Hill,3,2815.2
+Richmond Hill,4,3370.68
+Richmond Hill,5,3336.19
+Richmond Hill,6,3076.78
+Richmond Hill,7,2933.81
+Richmond Hill,8,2908.64
+Richmond Hill,9,2905.0
+Richmond Hill,10,2783.44
+Richmond Hill,11,2836.32
+Richmond Hill,12,2757.54
+Richmondtown,1,2250.0
+Richmondtown,2,2250.0
+Richmondtown,3,
+Richmondtown,4,2890.0
+Richmondtown,5,1860.0
+Richmondtown,6,1860.0
+Richmondtown,7,1200.0
+Richmondtown,8,1500.0
+Richmondtown,9,2250.0
+Richmondtown,10,2250.0
+Richmondtown,11,2250.0
+Richmondtown,12,2250.0
+Ridgewood,1,3239.56
+Ridgewood,2,3243.82
+Ridgewood,3,3411.86
+Ridgewood,4,3286.53
+Ridgewood,5,3425.94
+Ridgewood,6,3356.64
+Ridgewood,7,3420.43
+Ridgewood,8,3324.44
+Ridgewood,9,3365.42
+Ridgewood,10,3379.45
+Ridgewood,11,3308.84
+Ridgewood,12,3287.36
+Riverdale,1,60000.0
+Riverdale,2,60000.0
+Riverdale,3,29535.0
+Riverdale,4,21830.0
+Riverdale,5,21830.0
+Riverdale,6,21830.0
+Riverdale,7,21830.0
+Riverdale,8,31095.0
+Riverdale,9,21350.0
+Riverdale,10,21280.0
+Riverdale,11,21280.0
+Riverdale,12,60000.0
+Rockaway Beach,1,4251.95
+Rockaway Beach,2,4223.72
+Rockaway Beach,3,4050.0
+Rockaway Beach,4,4770.0
+Rockaway Beach,5,4527.39
+Rockaway Beach,6,4766.0
+Rockaway Beach,7,4814.67
+Rockaway Beach,8,4610.49
+Rockaway Beach,9,4426.1
+Rockaway Beach,10,4305.65
+Rockaway Beach,11,4397.14
+Rockaway Beach,12,4680.68
+Roosevelt Island,1,7186.0
+Roosevelt Island,2,6075.0
+Roosevelt Island,3,6306.67
+Roosevelt Island,4,5675.0
+Roosevelt Island,5,5828.82
+Roosevelt Island,6,6173.68
+Roosevelt Island,7,6941.05
+Roosevelt Island,8,7240.0
+Roosevelt Island,9,7383.53
+Roosevelt Island,10,7195.0
+Roosevelt Island,11,6857.37
+Roosevelt Island,12,8190.0
+Rosebank,1,3322.5
+Rosebank,2,2532.0
+Rosebank,3,3060.0
+Rosebank,4,3360.0
+Rosebank,5,3348.0
+Rosebank,6,3336.0
+Rosebank,7,3222.0
+Rosebank,8,3210.0
+Rosebank,9,3006.0
+Rosebank,10,3192.0
+Rosebank,11,3352.5
+Rosebank,12,3352.5
+Rosedale,1,5874.0
+Rosedale,2,3642.54
+Rosedale,3,6765.0
+Rosedale,4,5528.96
+Rosedale,5,5656.8
+Rosedale,6,5773.1
+Rosedale,7,4740.42
+Rosedale,8,3694.35
+Rosedale,9,3517.5
+Rosedale,10,3554.03
+Rosedale,11,2974.17
+Rosedale,12,5752.5
+Rossville,1,
+Rossville,2,2610.0
+Rossville,3,2440.0
+Rossville,4,25200.0
+Rossville,5,25200.0
+Rossville,6,25200.0
+Rossville,7,25200.0
+Rossville,8,25200.0
+Rossville,9,25200.0
+Rossville,10,
+Rossville,11,
+Rossville,12,
+Schuylerville,1,2838.0
+Schuylerville,2,2877.86
+Schuylerville,3,2834.0
+Schuylerville,4,3178.33
+Schuylerville,5,3093.75
+Schuylerville,6,3400.59
+Schuylerville,7,3070.0
+Schuylerville,8,3186.67
+Schuylerville,9,2973.53
+Schuylerville,10,3017.65
+Schuylerville,11,3423.75
+Schuylerville,12,3104.0
+Sea Gate,1,8481.82
+Sea Gate,2,9639.0
+Sea Gate,3,8470.0
+Sea Gate,4,7962.86
+Sea Gate,5,8389.29
+Sea Gate,6,11906.25
+Sea Gate,7,8990.77
+Sea Gate,8,8676.92
+Sea Gate,9,9343.64
+Sea Gate,10,9162.5
+Sea Gate,11,9280.0
+Sea Gate,12,8742.5
+Sheepshead Bay,1,4145.27
+Sheepshead Bay,2,4296.89
+Sheepshead Bay,3,4309.57
+Sheepshead Bay,4,4762.32
+Sheepshead Bay,5,4248.57
+Sheepshead Bay,6,4633.57
+Sheepshead Bay,7,4921.45
+Sheepshead Bay,8,4757.79
+Sheepshead Bay,9,3973.29
+Sheepshead Bay,10,4556.96
+Sheepshead Bay,11,3745.45
+Sheepshead Bay,12,4203.2
+Shore Acres,1,2677.5
+Shore Acres,2,2662.5
+Shore Acres,3,2715.0
+Shore Acres,4,3125.45
+Shore Acres,5,3273.0
+Shore Acres,6,3136.36
+Shore Acres,7,3090.0
+Shore Acres,8,3078.0
+Shore Acres,9,3060.0
+Shore Acres,10,2643.75
+Shore Acres,11,2640.0
+Shore Acres,12,2640.0
+Silver Lake,1,3830.0
+Silver Lake,2,3540.0
+Silver Lake,3,3540.0
+Silver Lake,4,3770.0
+Silver Lake,5,4110.0
+Silver Lake,6,4110.0
+Silver Lake,7,4110.0
+Silver Lake,8,4560.0
+Silver Lake,9,4110.0
+Silver Lake,10,4110.0
+Silver Lake,11,3830.0
+Silver Lake,12,4280.0
+SoHo,1,12400.67
+SoHo,2,9458.21
+SoHo,3,13093.87
+SoHo,4,13709.37
+SoHo,5,15246.77
+SoHo,6,11291.38
+SoHo,7,12060.97
+SoHo,8,12000.94
+SoHo,9,13056.0
+SoHo,10,14114.36
+SoHo,11,13275.32
+SoHo,12,12366.25
+Soundview,1,3415.0
+Soundview,2,3402.5
+Soundview,3,3343.64
+Soundview,4,3122.0
+Soundview,5,3105.0
+Soundview,6,3322.5
+Soundview,7,3703.33
+Soundview,8,3307.5
+Soundview,9,3403.64
+Soundview,10,3410.0
+Soundview,11,3410.0
+Soundview,12,3459.23
+South Beach,1,2515.71
+South Beach,2,2572.5
+South Beach,3,2550.0
+South Beach,4,2520.0
+South Beach,5,2628.0
+South Beach,6,2628.0
+South Beach,7,2575.0
+South Beach,8,2600.0
+South Beach,9,2610.0
+South Beach,10,2575.0
+South Beach,11,2575.0
+South Beach,12,2575.0
+South Ozone Park,1,3547.5
+South Ozone Park,2,4518.39
+South Ozone Park,3,4592.0
+South Ozone Park,4,5057.56
+South Ozone Park,5,5200.23
+South Ozone Park,6,5527.5
+South Ozone Park,7,4959.73
+South Ozone Park,8,4649.06
+South Ozone Park,9,4593.53
+South Ozone Park,10,4715.29
+South Ozone Park,11,4221.56
+South Ozone Park,12,3914.55
+South Slope,1,5241.85
+South Slope,2,5446.63
+South Slope,3,5518.88
+South Slope,4,5601.95
+South Slope,5,5891.3
+South Slope,6,5497.79
+South Slope,7,5706.23
+South Slope,8,5684.21
+South Slope,9,5774.62
+South Slope,10,5766.38
+South Slope,11,5596.12
+South Slope,12,5457.72
+Springfield Gardens,1,4322.26
+Springfield Gardens,2,4601.76
+Springfield Gardens,3,4794.21
+Springfield Gardens,4,4359.51
+Springfield Gardens,5,4482.5
+Springfield Gardens,6,4755.0
+Springfield Gardens,7,4817.5
+Springfield Gardens,8,4622.09
+Springfield Gardens,9,4641.79
+Springfield Gardens,10,4287.83
+Springfield Gardens,11,4620.0
+Springfield Gardens,12,4678.8
+Spuyten Duyvil,1,5334.0
+Spuyten Duyvil,2,5334.0
+Spuyten Duyvil,3,5274.0
+Spuyten Duyvil,4,4956.0
+Spuyten Duyvil,5,4956.0
+Spuyten Duyvil,6,4956.0
+Spuyten Duyvil,7,5334.0
+Spuyten Duyvil,8,5334.0
+Spuyten Duyvil,9,5334.0
+Spuyten Duyvil,10,5655.0
+Spuyten Duyvil,11,5334.0
+Spuyten Duyvil,12,4720.0
+St. Albans,1,2796.96
+St. Albans,2,3400.11
+St. Albans,3,3304.88
+St. Albans,4,3623.7
+St. Albans,5,3501.79
+St. Albans,6,3518.88
+St. Albans,7,3404.23
+St. Albans,8,3454.38
+St. Albans,9,3570.33
+St. Albans,10,3429.32
+St. Albans,11,3600.0
+St. Albans,12,3457.26
+St. George,1,3281.61
+St. George,2,3484.84
+St. George,3,3591.0
+St. George,4,3015.94
+St. George,5,3136.76
+St. George,6,3201.43
+St. George,7,3278.82
+St. George,8,3264.38
+St. George,9,3333.87
+St. George,10,3273.87
+St. George,11,3331.0
+St. George,12,4196.0
+Stapleton,1,4335.0
+Stapleton,2,4545.0
+Stapleton,3,4335.0
+Stapleton,4,5386.67
+Stapleton,5,4864.29
+Stapleton,6,4227.69
+Stapleton,7,4176.92
+Stapleton,8,4162.5
+Stapleton,9,4119.23
+Stapleton,10,4112.31
+Stapleton,11,4150.0
+Stapleton,12,3962.5
+Stuyvesant Town,1,7472.07
+Stuyvesant Town,2,6830.0
+Stuyvesant Town,3,6703.0
+Stuyvesant Town,4,6998.75
+Stuyvesant Town,5,6918.75
+Stuyvesant Town,6,7132.22
+Stuyvesant Town,7,7000.34
+Stuyvesant Town,8,6724.14
+Stuyvesant Town,9,6822.5
+Stuyvesant Town,10,7472.73
+Stuyvesant Town,11,7272.0
+Stuyvesant Town,12,6334.74
+Sunnyside,1,3840.0
+Sunnyside,2,3841.9
+Sunnyside,3,3408.42
+Sunnyside,4,2976.8
+Sunnyside,5,3690.0
+Sunnyside,6,3743.57
+Sunnyside,7,3716.13
+Sunnyside,8,3562.89
+Sunnyside,9,3794.55
+Sunnyside,10,3810.45
+Sunnyside,11,3885.56
+Sunnyside,12,3650.77
+Sunset Park,1,3669.17
+Sunset Park,2,3805.75
+Sunset Park,3,3731.75
+Sunset Park,4,3745.29
+Sunset Park,5,3793.4
+Sunset Park,6,3922.91
+Sunset Park,7,3852.16
+Sunset Park,8,3800.34
+Sunset Park,9,3686.75
+Sunset Park,10,3733.7
+Sunset Park,11,3772.62
+Sunset Park,12,3810.94
+Theater District,1,8902.07
+Theater District,2,8728.03
+Theater District,3,10567.72
+Theater District,4,7847.21
+Theater District,5,11872.67
+Theater District,6,12795.42
+Theater District,7,10656.84
+Theater District,8,10327.88
+Theater District,9,12307.06
+Theater District,10,12535.97
+Theater District,11,11084.79
+Theater District,12,10632.12
+Throgs Neck,1,3737.14
+Throgs Neck,2,3768.21
+Throgs Neck,3,3631.0
+Throgs Neck,4,3895.56
+Throgs Neck,5,4095.56
+Throgs Neck,6,4193.79
+Throgs Neck,7,3931.0
+Throgs Neck,8,4113.75
+Throgs Neck,9,3999.64
+Throgs Neck,10,4159.69
+Throgs Neck,11,3850.65
+Throgs Neck,12,3790.34
+Todt Hill,1,21825.0
+Todt Hill,2,12202.5
+Todt Hill,3,12202.5
+Todt Hill,4,24000.0
+Todt Hill,5,21050.0
+Todt Hill,6,17587.5
+Todt Hill,7,21050.0
+Todt Hill,8,42000.0
+Todt Hill,9,42000.0
+Todt Hill,10,42000.0
+Todt Hill,11,42000.0
+Todt Hill,12,42000.0
+Tompkinsville,1,3363.87
+Tompkinsville,2,3210.0
+Tompkinsville,3,3322.26
+Tompkinsville,4,3192.0
+Tompkinsville,5,3198.0
+Tompkinsville,6,3176.13
+Tompkinsville,7,3153.87
+Tompkinsville,8,3194.52
+Tompkinsville,9,3234.38
+Tompkinsville,10,3229.09
+Tompkinsville,11,3267.19
+Tompkinsville,12,3280.59
+Tottenville,1,4880.0
+Tottenville,2,4880.0
+Tottenville,3,4810.0
+Tottenville,4,6570.0
+Tottenville,5,7230.0
+Tottenville,6,7215.0
+Tottenville,7,8570.0
+Tottenville,8,8570.0
+Tottenville,9,4980.0
+Tottenville,10,4880.0
+Tottenville,11,4880.0
+Tottenville,12,4880.0
+Tremont,1,2898.75
+Tremont,2,2898.75
+Tremont,3,3123.33
+Tremont,4,2705.45
+Tremont,5,2650.0
+Tremont,6,2700.0
+Tremont,7,3108.75
+Tremont,8,2800.0
+Tremont,9,2865.0
+Tremont,10,2876.67
+Tremont,11,2876.67
+Tremont,12,2693.33
+Tribeca,1,15372.86
+Tribeca,2,14449.64
+Tribeca,3,18907.14
+Tribeca,4,15353.7
+Tribeca,5,17076.9
+Tribeca,6,17355.34
+Tribeca,7,17398.65
+Tribeca,8,16692.53
+Tribeca,9,19305.17
+Tribeca,10,18448.94
+Tribeca,11,17511.76
+Tribeca,12,15276.2
+Two Bridges,1,4021.58
+Two Bridges,2,3893.33
+Two Bridges,3,4054.29
+Two Bridges,4,3851.05
+Two Bridges,5,4034.12
+Two Bridges,6,3762.0
+Two Bridges,7,4055.29
+Two Bridges,8,4010.53
+Two Bridges,9,4175.0
+Two Bridges,10,4305.0
+Two Bridges,11,4572.86
+Two Bridges,12,4371.67
+Unionport,1,4266.0
+Unionport,2,4245.0
+Unionport,3,4339.09
+Unionport,4,3750.0
+Unionport,5,3750.0
+Unionport,6,3693.75
+Unionport,7,4025.0
+Unionport,8,3672.86
+Unionport,9,3657.0
+Unionport,10,4016.67
+Unionport,11,3940.91
+Unionport,12,4485.0
+University Heights,1,3520.0
+University Heights,2,4200.0
+University Heights,3,3942.0
+University Heights,4,5985.0
+University Heights,5,4245.0
+University Heights,6,4432.5
+University Heights,7,3702.0
+University Heights,8,3342.0
+University Heights,9,3312.0
+University Heights,10,3462.0
+University Heights,11,3660.0
+University Heights,12,3860.0
+Upper East Side,1,7005.83
+Upper East Side,2,6883.51
+Upper East Side,3,8166.23
+Upper East Side,4,7293.66
+Upper East Side,5,7177.36
+Upper East Side,6,7605.47
+Upper East Side,7,7744.84
+Upper East Side,8,7504.03
+Upper East Side,9,7855.87
+Upper East Side,10,8327.1
+Upper East Side,11,7812.62
+Upper East Side,12,7070.46
+Upper West Side,1,5970.38
+Upper West Side,2,6561.9
+Upper West Side,3,7071.7
+Upper West Side,4,6634.17
+Upper West Side,5,6917.12
+Upper West Side,6,6803.42
+Upper West Side,7,7275.66
+Upper West Side,8,7033.48
+Upper West Side,9,7567.08
+Upper West Side,10,7535.83
+Upper West Side,11,7068.14
+Upper West Side,12,6527.52
+Van Nest,1,5621.25
+Van Nest,2,6052.5
+Van Nest,3,5691.43
+Van Nest,4,5276.0
+Van Nest,5,5160.0
+Van Nest,6,5173.85
+Van Nest,7,5464.62
+Van Nest,8,5173.85
+Van Nest,9,5208.46
+Van Nest,10,5633.33
+Van Nest,11,5620.0
+Van Nest,12,5643.75
+Vinegar Hill,1,8634.71
+Vinegar Hill,2,8615.0
+Vinegar Hill,3,10957.06
+Vinegar Hill,4,8944.29
+Vinegar Hill,5,10426.88
+Vinegar Hill,6,8923.12
+Vinegar Hill,7,9460.0
+Vinegar Hill,8,9538.0
+Vinegar Hill,9,11310.0
+Vinegar Hill,10,9700.0
+Vinegar Hill,11,8943.33
+Vinegar Hill,12,7985.45
+Wakefield,1,2814.26
+Wakefield,2,2791.88
+Wakefield,3,2705.88
+Wakefield,4,3245.22
+Wakefield,5,2979.5
+Wakefield,6,2908.93
+Wakefield,7,2965.0
+Wakefield,8,2707.64
+Wakefield,9,2861.76
+Wakefield,10,2821.64
+Wakefield,11,2928.37
+Wakefield,12,2879.36
+Washington Heights,1,2965.48
+Washington Heights,2,2915.93
+Washington Heights,3,2868.42
+Washington Heights,4,2934.4
+Washington Heights,5,3029.68
+Washington Heights,6,3039.47
+Washington Heights,7,3006.55
+Washington Heights,8,2997.68
+Washington Heights,9,3009.46
+Washington Heights,10,2995.89
+Washington Heights,11,2776.21
+Washington Heights,12,2981.33
+West Brighton,1,2458.57
+West Brighton,2,2422.86
+West Brighton,3,2491.43
+West Brighton,4,2299.41
+West Brighton,5,2139.38
+West Brighton,6,2296.67
+West Brighton,7,2296.67
+West Brighton,8,2313.0
+West Brighton,9,2370.0
+West Brighton,10,2365.71
+West Brighton,11,2397.14
+West Brighton,12,2325.71
+West Farms,1,4462.5
+West Farms,2,4267.5
+West Farms,3,4507.5
+West Farms,4,3440.0
+West Farms,5,3440.0
+West Farms,6,3620.0
+West Farms,7,4245.0
+West Farms,8,4935.0
+West Farms,9,5380.0
+West Farms,10,4410.0
+West Farms,11,4410.0
+West Farms,12,4305.0
+West Village,1,9669.24
+West Village,2,9882.14
+West Village,3,10768.21
+West Village,4,9751.96
+West Village,5,10692.0
+West Village,6,14289.35
+West Village,7,12538.23
+West Village,8,12506.36
+West Village,9,12496.26
+West Village,10,11900.05
+West Village,11,13123.3
+West Village,12,11061.03
+Westchester Square,1,3201.43
+Westchester Square,2,3201.43
+Westchester Square,3,3412.5
+Westchester Square,4,3090.0
+Westchester Square,5,3008.57
+Westchester Square,6,3635.0
+Westchester Square,7,4350.0
+Westchester Square,8,3636.0
+Westchester Square,9,2922.0
+Westchester Square,10,4068.75
+Westchester Square,11,3806.25
+Westchester Square,12,3205.71
+Westerleigh,1,4500.0
+Westerleigh,2,4500.0
+Westerleigh,3,4500.0
+Westerleigh,4,3997.5
+Westerleigh,5,3997.5
+Westerleigh,6,3997.5
+Westerleigh,7,3997.5
+Westerleigh,8,3997.5
+Westerleigh,9,3997.5
+Westerleigh,10,3997.5
+Westerleigh,11,4500.0
+Westerleigh,12,4500.0
+Whitestone,1,3378.75
+Whitestone,2,2990.0
+Whitestone,3,3333.33
+Whitestone,4,6612.0
+Whitestone,5,5280.0
+Whitestone,6,3342.86
+Whitestone,7,3416.25
+Whitestone,8,2980.0
+Whitestone,9,2844.0
+Whitestone,10,3030.0
+Whitestone,11,3183.33
+Whitestone,12,3070.0
+Williamsbridge,1,2787.19
+Williamsbridge,2,2776.45
+Williamsbridge,3,2674.55
+Williamsbridge,4,2887.06
+Williamsbridge,5,2968.38
+Williamsbridge,6,2823.95
+Williamsbridge,7,2970.0
+Williamsbridge,8,2966.67
+Williamsbridge,9,2946.67
+Williamsbridge,10,2923.24
+Williamsbridge,11,2828.33
+Williamsbridge,12,2849.03
+Williamsburg,1,5590.2
+Williamsburg,2,5604.74
+Williamsburg,3,5936.91
+Williamsburg,4,5991.62
+Williamsburg,5,6185.28
+Williamsburg,6,6064.12
+Williamsburg,7,6322.02
+Williamsburg,8,6185.23
+Williamsburg,9,5896.6
+Williamsburg,10,5988.31
+Williamsburg,11,6060.67
+Williamsburg,12,5829.68
+Willowbrook,1,4950.0
+Willowbrook,2,4950.0
+Willowbrook,3,6300.0
+Willowbrook,4,5250.0
+Willowbrook,5,5250.0
+Willowbrook,6,5250.0
+Willowbrook,7,5250.0
+Willowbrook,8,5250.0
+Willowbrook,9,5250.0
+Willowbrook,10,4950.0
+Willowbrook,11,4950.0
+Willowbrook,12,4950.0
+Windsor Terrace,1,4779.38
+Windsor Terrace,2,4704.67
+Windsor Terrace,3,4768.04
+Windsor Terrace,4,5020.0
+Windsor Terrace,5,5356.6
+Windsor Terrace,6,5267.5
+Windsor Terrace,7,4976.59
+Windsor Terrace,8,4920.0
+Windsor Terrace,9,4875.0
+Windsor Terrace,10,4938.75
+Windsor Terrace,11,4785.37
+Windsor Terrace,12,4507.86
+Woodhaven,1,2511.05
+Woodhaven,2,2457.32
+Woodhaven,3,2450.34
+Woodhaven,4,2697.0
+Woodhaven,5,2736.0
+Woodhaven,6,2767.92
+Woodhaven,7,2772.22
+Woodhaven,8,2675.5
+Woodhaven,9,2453.0
+Woodhaven,10,2569.82
+Woodhaven,11,2424.29
+Woodhaven,12,2506.84
+Woodlawn,1,4220.0
+Woodlawn,2,3966.0
+Woodlawn,3,4492.5
+Woodlawn,4,4327.5
+Woodlawn,5,4391.25
+Woodlawn,6,3338.57
+Woodlawn,7,3115.0
+Woodlawn,8,3325.71
+Woodlawn,9,3385.71
+Woodlawn,10,3993.75
+Woodlawn,11,3857.14
+Woodlawn,12,4495.71
+Woodrow,1,1950.0
+Woodrow,2,1950.0
+Woodrow,3,1755.0
+Woodrow,4,4790.0
+Woodrow,5,4790.0
+Woodrow,6,4790.0
+Woodrow,7,4790.0
+Woodrow,8,4790.0
+Woodrow,9,1950.0
+Woodrow,10,1950.0
+Woodrow,11,1950.0
+Woodrow,12,1950.0
+Woodside,1,2947.65
+Woodside,2,2976.18
+Woodside,3,2393.36
+Woodside,4,2586.46
+Woodside,5,3016.32
+Woodside,6,2924.37
+Woodside,7,2922.06
+Woodside,8,2830.75
+Woodside,9,2997.85
+Woodside,10,3146.09
+Woodside,11,2986.57
+Woodside,12,2844.0
