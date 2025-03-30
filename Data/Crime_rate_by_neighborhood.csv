@@ -1,0 +1,231 @@
+neighborhood,precinct,crime_rate
+Tribeca,1,375
+Financial District,1,375
+Battery Park City,1,375
+SoHo,1,375
+Chinatown,5,239
+Little Italy,5,239
+Civic Center,5,239
+Nolita,5,239
+Two Bridges,5,239
+Greenwich Village,6,274
+West Village,6,274
+Lower East Side,7,182
+East Village,9,278
+NoHo,9,278
+Chelsea,10,228
+Kips Bay,13,412
+Stuyvesant Town,13,412
+Gramercy,13,412
+Flatiron District,13,412
+Murray Hill,17,150
+Midtown,17,150
+Hell's Kitchen,18,604
+Theater District,18,604
+Upper East Side,19,471
+Upper West Side,20,219
+East Harlem,23,283
+Morningside Heights,26,144
+Harlem,32,281
+Washington Heights,33,175
+Inwood,34,306
+Mott Haven,40,628
+Melrose,40,628
+Port Morris,40,628
+Hunts Point,41,348
+Longwood,41,348
+East Morrisania,42,452
+Morrisania,42,452
+Clason Point,43,689
+Unionport,43,689
+Parkchester,43,689
+Castle Hill,43,689
+Soundview,43,689
+Mount Eden,44,587
+Concourse,44,587
+Claremont Village,44,587
+Concourse Village,44,587
+Highbridge,44,587
+Throgs Neck,45,411
+Country Club,45,411
+City Island,45,411
+Co-op City,45,411
+Schuylerville,45,411
+Westchester Square,45,411
+Pelham Bay,45,411
+Mount Hope,46,470
+University Heights,46,470
+Morris Heights,46,470
+Woodlawn,47,703
+Williamsbridge,47,703
+Eastchester,47,703
+Wakefield,47,703
+Olinville,47,703
+Baychester,47,703
+Edenwald,47,703
+West Farms,48,486
+Belmont,48,486
+Tremont,48,486
+Allerton,49,508
+Bronxdale,49,508
+Morris Park,49,508
+Pelham Gardens,49,508
+Van Nest,49,508
+Spuyten Duyvil,50,260
+Marble Hill,50,260
+North Riverdale,50,260
+Riverdale,50,260
+Fieldston,50,260
+Kingsbridge,50,260
+Norwood,52,555
+Fordham,52,555
+Sea Gate,60,190
+Brighton Beach,60,190
+Coney Island,60,190
+Manhattan Beach,61,292
+Gerritsen Beach,61,292
+Sheepshead Bay,61,292
+Gravesend,62,221
+Bath Beach,62,221
+Bensonhurst,62,221
+Flatlands,63,191
+Mill Basin,63,191
+Bergen Beach,63,191
+Kensington,66,213
+Borough Park,66,213
+East Flatbush,67,444
+Dyker Heights,68,131
+Fort Hamilton,68,131
+Bay Ridge,68,131
+Canarsie,69,149
+Flatbush,70,288
+Midwood,70,288
+Prospect-Lefferts Gardens,71,184
+Windsor Terrace,72,172
+Sunset Park,72,172
+Brownsville,73,317
+Cypress Hills,75,613
+East New York,75,613
+Carroll Gardens,76,87
+Columbia St,76,87
+Red Hook,76,87
+Cobble Hill,76,87
+Prospect Heights,77,219
+Crown Heights,77,219
+South Slope,78,148
+Gowanus,78,148
+Park Slope,78,148
+Bedford-Stuyvesant,79,233
+Bushwick,83,290
+DUMBO,84,333
+Brooklyn Heights,84,333
+Downtown Brooklyn,84,333
+Boerum Hill,84,333
+Vinegar Hill,84,333
+Fort Greene,88,174
+Clinton Hill,88,174
+Navy Yard,88,174
+Williamsburg,90,301
+Greenpoint,94,214
+Arverne,100,56
+Rockaway Beach,100,56
+Neponsit,100,56
+Belle Harbor,100,56
+Breezy Point,100,56
+Bayswater,101,137
+Edgemere,101,137
+Far Rockaway,101,137
+Kew Gardens,102,239
+Woodhaven,102,239
+Richmond Hill,102,239
+Hollis,103,428
+Middle Village,104,299
+Glendale,104,299
+Ridgewood,104,299
+Maspeth,104,299
+Rosedale,105,221
+Cambria Heights,105,221
+Laurelton,105,221
+Queens Village,105,221
+Glen Oaks,105,221
+Bellerose,105,221
+Springfield Gardens,105,221
+Howard Beach,106,302
+South Ozone Park,106,302
+Ozone Park,106,302
+Briarwood,107,310
+Jamaica Estates,107,310
+Fresh Meadows,107,310
+Holliswood,107,310
+Jamaica Hills,107,310
+Kew Gardens Hills,107,310
+Sunnyside,108,311
+Long Island City,108,311
+Woodside,108,311
+Bay Terrace,109,535
+Whitestone,109,535
+Flushing,109,535
+College Point,109,535
+Elmhurst,110,461
+Corona,110,461
+Little Neck,111,246
+Hollis Hills,111,246
+Douglaston,111,246
+Bayside,111,246
+Forest Hills,112,214
+Rego Park,112,214
+Jamaica,113,233
+St. Albans,113,233
+Roosevelt Island,114,439
+Ditmars Steinway,114,439
+Astoria,114,439
+Jackson Heights,115,410
+East Elmhurst,115,410
+West Brighton,120,221
+New Brighton,120,221
+Grymes Hill,120,221
+Rosebank,120,221
+St. George,120,221
+Tompkinsville,120,221
+Randall Manor,120,221
+Shore Acres,120,221
+Stapleton,120,221
+Castleton Corners,120,221
+Silver Lake,120,221
+Clifton,120,221
+Graniteville,121,176
+Westerleigh,121,176
+Port Ivory,121,176
+Willowbrook,121,176
+Bull's Head,121,176
+Port Richmond,121,176
+Emerson Hill,121,176
+Mariners Harbor,121,176
+"Chelsea, Staten Island",121,176
+New Springville,121,176
+Bloomfield,121,176
+Howland Hook,121,176
+Fort Wadsworth,122,178
+New Dorp Beach,122,178
+New Dorp,122,178
+Lighthouse Hill,122,178
+South Beach,122,178
+Concord,122,178
+Arrochar,122,178
+Richmondtown,122,178
+"Bay Terrace, Staten Island",122,178
+Dongan Hills,122,178
+Midland Beach,122,178
+Grant City,122,178
+Great Kills,122,178
+Oakwood,122,178
+Eltingville,122,178
+Todt Hill,122,178
+Pleasant Plains,123,104
+Charleston,123,104
+Prince's Bay,123,104
+Rossville,123,104
+Woodrow,123,104
+Arden Heights,123,104
+Huguenot,123,104
+Tottenville,123,104
